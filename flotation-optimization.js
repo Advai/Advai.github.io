@@ -37,12 +37,6 @@ app.controller('flotation-optimiztion', ['$scope', '$http', function ($scope, $h
             console.log($scope.gridOptions.rowData);
         }
     };
-    // $scope.gridOptions.api.setRowData(data);
-    $scope.sliderOptions = {
-        floor:0,
-        ceil:100,
-        step:1
-    };
 
     $scope.Load = function() {
         $scope.currentRecovery = data.currentRecovery;
