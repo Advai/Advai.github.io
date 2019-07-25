@@ -33,7 +33,16 @@ app.controller('flotation-optimiztion', ['$scope', '$http', function ($scope, $h
         }
     };
     // $scope.gridOptions.api.setRowData(data);
-    
+    $scope.params = data;
+    $scope.params.forEach(function(res) {
+        res.newVal = angular.copy(res.current);
+    });
+    $scope.sliderOptions = {
+        floor:0,
+        ceil:100,
+        step:1
+    }
+
 
 }]);
 
