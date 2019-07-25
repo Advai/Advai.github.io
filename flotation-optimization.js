@@ -2,7 +2,10 @@ agGrid.initialiseAgGridWithAngular1(angular);
 
 var app = angular.module('floatation-optimization-app',['agGrid','pagination','ngMaterial']);
 
-var data =  
+var data =  {
+    "currentRecovery":89.2,
+    "modelAccuracy": 95,
+    "parameters": 
     [
         { "name": "Fatty Acid", "units": "#/Ton", "current": 10 },
 
@@ -15,7 +18,9 @@ var data =
         {"name": "KPI # 8", "units": "ABC", "current": 80 },
         {"name": "KPI # 9", "units": "ABC", "current": 90 },
         {"name": "KPI # 10", "units": "ABC", "current":  100}
-    ];
+    ]
+};
+    
 
 app.controller('flotation-optimiztion', ['$scope', '$http', function ($scope, $http) {
     var columnDefs = [
@@ -33,15 +38,26 @@ app.controller('flotation-optimiztion', ['$scope', '$http', function ($scope, $h
         }
     };
     // $scope.gridOptions.api.setRowData(data);
-    $scope.params = data;
-    $scope.params.forEach(function(res) {
-        res.newVal = angular.copy(res.current);
-    });
     $scope.sliderOptions = {
         floor:0,
         ceil:100,
         step:1
-    }
+    };
+
+    $scope.Load = function() {
+        $scope.currentRecovery = data.currentRecovery;
+    $scope.modelAccuracy = data.modelAccuracy;
+    $scope.simRecovery = null;
+    $scope.params = data.parameters;
+    $scope.params.forEach(function(res) {
+        res.newVal = angular.copy(res.current);
+    });
+    };
+
+    $scope.Simulate = function() {
+        console.log("Simulation sent to RapidMiner");
+    };
+    
 
 
 }]);

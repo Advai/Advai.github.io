@@ -9,9 +9,13 @@
     <script src="https://unpkg.com/ag-grid-enterprise@21.1.0/dist/ag-grid-enterprise.min.js"></script>
 </head>
 <body ng-app="floatation-optimization-app" ng-controller="flotation-optimiztion">
-    <div ng-app="floatation-optimization-app" ng-controller="flotation-optimiztion" style="height:100%">
+    <div align="center" width="50%" ng-app="floatation-optimization-app" ng-controller="flotation-optimiztion" style="height:100%">
         <!-- <div ag-grid="gridOptions" style="height:100%;" ></div> -->
-        <table align="center" border = "1" class="mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
+        <div><p>Current Recovery: {{currentRecovery}}</p> <p>Simulated Recovery: {{simRecovery}}</p></div>
+        <div><p>Model Accuracy: {{modelAccuracy}}%</p>
+        <md-button class ="md-raised md-primary" ng-click="Load()">Load</md-button>
+        <md-button class = "md-raised md-primary" ng-click="Simulate()">Simulate</md-button></div>
+        <table ng-table="tableParams" border = "1" class="mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
             <thead>
                 <tr>
                     <th class = "mdl-data-table__cell--non-numeric"><span>Name</span></th>
@@ -24,8 +28,8 @@
             <tr ng-repeat="i in params">
                 <td>{{i.name}}</td>
                 <td>{{i.units}}</td>
-                <td>{{i.current}}</td>
-                <td width="50%"><md-slider ng-model="i.newVal" min="0" max="255"></md-slider></td>
+                <td id="current">{{i.current}}</td>
+                <td width="50%"><md-slider ng-model="i.newVal" min="0" max="255" aria-label="newSlider"></md-slider></td>
                 <td><input type="number" ng-model="i.newVal" step="0.1"></td>
             </tr>
         </table>
