@@ -1,0 +1,82 @@
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>FCO Optimization Webapp</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
+    <link rel="stylesheet" href="https://cdn.gitcdn.xyz/cdn/angular/bower-material/v1.0.1-master-a687bfc/angular-material.css">
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.indigo-blue.min.css">
+    <script src="https://unpkg.com/ag-grid-enterprise@21.1.0/dist/ag-grid-enterprise.min.js"></script>
+</head>
+<body ng-app="floatation-optimization-app" ng-controller="flotation-optimiztion">
+    <div ng-app="floatation-optimization-app" ng-controller="flotation-optimiztion" style="height:100%">
+        <!-- <div ag-grid="gridOptions" style="height:100%;" ></div> -->
+        <table align="center" border = "1" class="mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
+            <thead>
+                <tr>
+                    <th class = "mdl-data-table__cell--non-numeric"><span>Name</span></th>
+                    <th class = "mdl-data-table__cell--non-numeric"><span>Units</span></th>
+                    <th class = "mdl-data-table__cell--non-numeric"><span>Current</span></th>
+                    <th class = "mdl-data-table__cell--non-numeric"><span>Slider</span></th>
+                    <th class = "mdl-data-table__cell--non-numeric"><span>New</span></th>
+                </tr>
+            </thead>
+            <tr ng-repeat="i in params">
+                <td>{{i.name}}</td>
+                <td>{{i.units}}</td>
+                <td>{{i.current}}</td>
+                <td width="50%"><md-slider ng-model="i.newVal" min="0" max="255"></md-slider></td>
+                <td><input type="number" ng-model="i.newVal" step="0.1"></td>
+            </tr>
+        </table>
+    <!-- <div layout="column" layout-fill>
+    <md-content layout-padding layout="row" layout-align="center"></md-content>
+                <div grid-options="gridOptions">
+                    <table class="mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
+                       	
+						<thead>
+							<tr>
+								<th 
+									class=""><span>KPI</span>
+								</th>
+									
+									<th  class=""><span>Units</span></th>
+									<th class=""><span>Current</span></th>
+
+								<th><span>Slider</span></th>
+
+								<th ><span>Simulated</span></th>
+							</tr>
+						</thead>
+
+
+						<tbody>
+							<tr grid-item>
+								<td ng-bind="item.name"></td>
+
+								<td class="mdl-data-table__cell--non-numeric"><span
+									ng-bind="gridOptions.data.parameters.name"></span></td>
+									
+									<td  ng-bind = "gridOptions.data.parameters.name" >
+									</td>
+									
+							</tr>
+						</tbody>
+					</table>
+                </div>
+ -->
+
+                
+</div>
+</body>
+  
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-animate.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-aria.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-messages.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.0.0/angular-material.min.js"></script>
+<script src="https://angular-data-grid.github.io/dist/pagination.js"></script>
+<script src="https://angular-data-grid.github.io/dist/dataGrid.js"></script>
+ <script src="flotation-optimization.js"></script>
+
+</html>
