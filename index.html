@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<meta charset='utf-8'>
+<style>
+ svg {
+    font: 10px sans-serif;
+    shape-rendering: crispEdges;
+  }
+  div.tooltip {
+        position: absolute;
+        text-align: left;
+        width: 100px;
+        height: 50px;
+        padding: 8px;
+        font: 10px sans-serif;
+        background: #ddd;
+        border: solid 1px #aaa;
+        border-radius: 8px;
+        pointer-events: none;
+    }
+  .axis path,
+  .axis line {
+    fill: none;
+    stroke: #000;
+  }
+ 
+  path.domain {
+    stroke: none;
+  }
+ 
+  .y .tick line {
+    stroke: #ddd;
+  }
+.years {
+  font-size: 14px;
+}
+.desc {
+  font-size: 16px;
+}
+.lines path {
+  fill: none;
+  stroke: #B233FF;
+  stroke-width: 2;
+  
+}
+.d3-tip {
+  line-height: 1;
+  font-weight: bold;
+  padding: 10px;
+  background: #B233FF;
+  color: white;
+  border-radius: 2px;
+}
+html, body {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  padding: auto;
+}
+#chart {
+  align-content: center;
+  display: block;
+  margin: auto;
+}
+/* #id, #chart {
+  background: #111;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+
+} */
+</style>
+<html>
+    <head>
+      <title>CS 296 Visualization</title>
+  
+      <!-- Bootstrap CSS -->
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  
+      <!-- jQuery and lodash -->
+      <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.min.js"></script>
+      <script src="visualization.js"></script>
+
+  
+<body style="background-color: whitesmoke;">
+    <div id="container">
+      <h2 style="text-align:center;"><b>The Gender Ratio and Race Distribution for every major at UIUC since 1980!</b></h2>
+      <h3 style="text-align:center;">By: <strong>Advai Podduturi</strong> and <strong>Aj Federici</strong></h3>
+      <br>
+      <p style="align: center; text-align:center; width: 33%; margin: auto;">The gender gap, that heavily plagued the early 2000s, is beginning to close. This visualization contains gender and race distributions for every major at the University of Illinois at Urbana-Champaign. I hope this will help you better understand the demographics at UIUC better and reflect the changes the university has seen in the past 38 years. 
+        <br><br>Hover each bar in the bar graph to see exact values as well as percentage of that race in the major. Hover over a line in the line chart to see the major name. <br><br> 
+        Note: The M / F Ratios do not account for non-binary gendered students, so the total will not always be the sum of the male and female students. As the data is not 100 percent clean, there might be a few errors (due to the dataset being horribly inconsistent and unreliable) that even I did not catch. </p> 
+        <div style="align-content: center; text-align:center; margin: auto;">
+            <input type="range" min=1980 max=2018 step=1 id="year" value=2015 oninput="selected_year.value = year.value" style="align-content: center; text-align:center; margin: auto;">
+            <output name="selected_year" id="selected_year">2015</output>
+            <select name="college" id="college" style="align-content: center; text-align:center; margin: auto;">
+              <option value="Aces" selected>Aces</option>
+              <option value="Las">Las</option>
+              <option value="Engineering">Engineering</option>
+              <option value="Applied Health Sciences">Applied Health Sciences</option>
+              <option value="Business">Business</option>
+              <option value="Education">Education</option>
+              <option value="Media">Media</option>
+          </select>
+
+        </div>
+        
+    
+
+        <!-- Our d3.js visualization will appear in #chart -->
+        <div id="chart" style="text-align:center;"></div>
+        <div id="visualization" width="1500" height="500" style="text-align:center;"></div>
+      </div>
+</body>
+</head>
+</html>
+
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+
+<script src="d3.slopegraph.js"></script>

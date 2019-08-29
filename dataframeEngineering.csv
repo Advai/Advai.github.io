@@ -1,0 +1,442 @@
+,Fall,College,Major_Name,Total,Female,Male,Caucasian,Asian American,African American,Hispanic,Native American,M/F
+7778,2018,Engineering,Electrical & Computer Engr,657,112,545,92,70,3,4,0,4.87
+7777,2018,Engineering,Computer Science,2318,559,1757,550,675,38,96,2,3.15
+7776,2018,Engineering,Computer Engineering,1184,152,1032,303,454,14,46,0,6.79
+7775,2018,Engineering,Civil Engineering,1225,324,901,450,138,16,86,1,2.79
+7773,2018,Engineering,Bioengineering,383,189,194,141,110,10,26,0,1.03
+7771,2018,Engineering,Aerospace Engineering,686,105,581,328,117,9,64,1,5.54
+7779,2018,Engineering,Electrical Engineering,913,127,786,292,257,15,51,0,6.19
+7780,2018,Engineering,Engineering,34,9,25,12,1,0,0,0,2.78
+7781,2018,Engineering,Engineering Mechanics,112,16,96,35,25,0,8,0,6
+7782,2018,Engineering,Engineering Physics,275,47,228,122,59,0,16,0,4.86
+7794,2018,Engineering,Theoretical & Applied Mechans,36,7,29,10,3,0,1,0,4.15
+7793,2018,Engineering,Systems Engineering And Design,249,68,180,115,69,6,25,0,2.65
+7790,2018,Engineering,"Nuclear, Plasma, Radiolgc Engr ",218,28,190,114,18,0,16,0,6.79
+7788,2018,Engineering,Mechanical Engineering,1285,248,1037,491,195,14,92,2,4.19
+7787,2018,Engineering,Materials Science & Engr,504,147,357,181,99,3,16,0,2.43
+7786,2018,Engineering,Industrial Engineering,367,105,262,100,68,4,19,0,2.5
+7785,2018,Engineering,Financial Engineering,127,38,89,4,2,0,0,0,2.35
+7784,2018,Engineering,Environ Engr In Civil Engr,99,44,55,31,4,2,6,0,1.25
+7783,2018,Engineering,Engineering Undeclared,151,57,94,61,30,12,26,0,1.65
+7552,2017,Engineering,Computer Science,2048,491,1557,502,570,33,90,2,3.18
+7551,2017,Engineering,Computer Engineering,1270,156,1114,351,431,18,52,0,7.15
+7550,2017,Engineering,Civil Engineering,1319,362,957,480,134,16,92,0,2.65
+7547,2017,Engineering,Bioengineering,369,182,187,157,107,6,22,0,1.03
+7545,2017,Engineering,Aerospace Engineering,716,104,612,350,120,8,66,1,5.89
+7553,2017,Engineering,Electrical & Computer Engr,620,108,512,91,59,6,7,0,4.75
+7555,2017,Engineering,Engineering,28,4,24,9,1,1,0,0,6
+7554,2017,Engineering,Electrical Engineering,1025,146,879,322,267,18,50,0,6.03
+7556,2017,Engineering,Engineering Mechanics,129,22,107,37,25,0,10,0,4.87
+7557,2017,Engineering,Engineering Physics,271,41,230,124,58,3,16,0,5.61
+7572,2017,Engineering,Theoretical & Applied Mechans,42,6,36,12,2,0,1,0,6
+7571,2017,Engineering,Systems Engineering And Design,228,52,176,102,59,6,26,0,3.39
+7568,2017,Engineering,"Nuclear, Plasma, Radiolgc Engr ",234,33,201,124,19,2,13,0,6.1
+7565,2017,Engineering,Mechanical Engineering,1306,235,1071,516,166,14,85,2,4.56
+7564,2017,Engineering,Materials Science & Engr,520,151,369,183,91,4,16,0,2.45
+7563,2017,Engineering,Industrial Engineering,390,115,275,111,69,2,19,0,2.4
+7561,2017,Engineering,Financial Engineering,128,40,88,1,6,0,0,0,2.2
+7559,2017,Engineering,Environ Engr In Civil Engr,115,62,53,32,5,3,3,0,0.86
+7558,2017,Engineering,Engineering Undeclared,102,42,59,43,20,7,14,0,1.41
+7329,2016,Engineering,Electrical & Computer Engr,585,97,488,99,46,6,8,0,5.04
+7328,2016,Engineering,Computer Science,1748,420,1328,428,472,24,55,1,3.17
+7327,2016,Engineering,Computer Engineering,1195,132,1063,377,344,18,58,0,8.06
+7326,2016,Engineering,Civil Engineering,1329,357,972,469,132,16,88,0,2.73
+7323,2016,Engineering,Bioengineering,349,159,190,158,109,6,22,0,1.2
+7321,2016,Engineering,Aerospace Engineering,672,89,583,312,108,8,65,1,6.56
+7331,2016,Engineering,Engineering,25,4,21,8,0,1,1,0,5.25
+7330,2016,Engineering,Electrical Engineering,1151,148,1003,383,305,16,54,0,6.78
+7332,2016,Engineering,Engineering Mechanics,137,20,117,46,21,0,12,0,5.85
+7333,2016,Engineering,Engineering Physics,226,29,197,119,41,1,12,2,6.8
+7348,2016,Engineering,Theoretical & Applied Mechans,51,8,43,17,4,0,2,0,5.38
+7344,2016,Engineering,"Nuclear, Plasma, Radiolgc Engr ",231,31,200,128,17,6,16,0,6.46
+7341,2016,Engineering,Mechanical Engineering,1269,219,1050,556,158,11,86,2,4.8
+7340,2016,Engineering,Materials Science & Engr,566,169,397,191,103,3,17,0,2.35
+7339,2016,Engineering,Industrial Engineering,353,102,251,114,51,3,9,0,2.47
+7337,2016,Engineering,Financial Engineering,121,37,84,2,8,0,0,0,2.28
+7335,2016,Engineering,Environ Engr In Civil Engr,118,66,52,33,7,1,6,0,0.79
+7334,2016,Engineering,Engineering Undeclared,75,30,45,33,19,1,5,0,1.5
+7107,2015,Engineering,Computer Science,1640,330,1310,445,412,17,42,1,3.97
+7106,2015,Engineering,Computer Engineering,1062,109,952,352,315,10,44,0,8.74
+7105,2015,Engineering,Civil Engineering,1319,343,976,481,135,21,79,0,2.85
+7102,2015,Engineering,Bioengineering,318,151,167,149,94,2,16,1,1.11
+7100,2015,Engineering,Aerospace Engineering,657,69,588,322,111,6,55,1,8.53
+7108,2015,Engineering,Electrical & Computer Engr,503,74,429,101,47,6,9,0,5.8
+7109,2015,Engineering,Electrical Engineering,1146,144,1002,360,287,18,51,1,6.96
+7110,2015,Engineering,Engineering,20,6,14,6,1,1,1,0,2.34
+7126,2015,Engineering,Theoretical & Applied Mechans,47,8,39,17,3,0,1,0,4.88
+7123,2015,Engineering,"Nuclear, Plasma, Radiolgc Engr ",233,29,204,129,25,7,19,0,7.04
+7120,2015,Engineering,Mechanical Engineering,1251,182,1069,566,161,15,72,3,5.88
+7119,2015,Engineering,Materials Science & Engr,586,168,418,220,97,5,20,0,2.49
+7118,2015,Engineering,Industrial Engineering,337,90,247,110,48,6,5,0,2.75
+7116,2015,Engineering,Financial Engineering,122,31,91,4,7,0,1,0,2.94
+7114,2015,Engineering,Environ Engr In Civil Engr,100,54,46,36,7,1,7,0,0.86
+7113,2015,Engineering,Engineering Undeclared,147,30,117,75,38,4,8,0,3.9
+7112,2015,Engineering,Engineering Physics,248,30,218,136,37,2,13,1,7.27
+7111,2015,Engineering,Engineering Mechanics,112,11,101,45,15,0,11,0,9.19
+6884,2014,Engineering,Electrical & Computer Engr,534,79,455,109,52,7,11,0,5.76
+6883,2014,Engineering,Computer Science,1596,291,1305,473,360,17,31,2,4.49
+6882,2014,Engineering,Computer Engineering,905,92,813,318,234,13,43,0,8.84
+6881,2014,Engineering,Civil Engineering,1294,322,972,507,128,17,71,0,3.02
+6879,2014,Engineering,Bioengineering,320,146,174,161,92,3,15,1,1.2
+6877,2014,Engineering,Aerospace Engineering,608,61,547,301,110,6,48,0,8.97
+6887,2014,Engineering,Engineering Mechanics,93,8,85,46,12,0,10,0,10.63
+6888,2014,Engineering,Engineering Physics,231,21,210,137,28,2,13,0,10
+6903,2014,Engineering,Theoretical & Applied Mechans,56,11,45,25,4,0,0,0,4.1
+6899,2014,Engineering,"Nuclear, Plasma, Radiolgc Engr ",215,30,185,123,23,5,17,0,6.17
+6889,2014,Engineering,Engineering Undeclared,118,45,73,66,27,4,8,0,1.63
+6896,2014,Engineering,Mechanical Engineering,1231,174,1057,564,150,11,62,3,6.08
+6895,2014,Engineering,Materials Science & Engr,600,165,435,224,91,5,20,0,2.64
+6894,2014,Engineering,Industrial Engineering,341,74,267,114,47,6,5,0,3.61
+6892,2014,Engineering,Financial Engineering,109,33,76,3,4,0,0,0,2.31
+6890,2014,Engineering,Environ Engr In Civil Engr,118,62,56,42,7,1,8,0,0.91
+6885,2014,Engineering,Electrical Engineering,1109,135,973,342,273,24,44,1,7.21
+6656,2013,Engineering,Aerospace Engineering,536,60,476,287,88,2,43,0,7.94
+6665,2013,Engineering,Electrical Engineering,1170,135,1034,336,287,31,52,2,7.66
+6664,2013,Engineering,Electrical & Computer Engr,494,71,423,122,55,5,13,0,5.96
+6663,2013,Engineering,Computer Science,1514,222,1292,494,323,19,27,0,5.82
+6662,2013,Engineering,Computer Engineering,791,70,721,298,207,15,38,0,10.3
+6661,2013,Engineering,Civil Engineering,1287,317,970,561,129,19,69,1,3.06
+6659,2013,Engineering,Bioengineering,276,124,152,144,74,2,15,1,1.23
+6667,2013,Engineering,Engineering Physics,197,18,179,131,17,2,8,1,9.95
+6666,2013,Engineering,Engineering Mechanics,97,11,86,57,11,1,7,0,7.82
+6668,2013,Engineering,Engineering Undeclared,100,24,76,41,18,0,8,0,3.17
+6682,2013,Engineering,Theoretical & Applied Mechans,58,11,47,21,2,0,3,0,4.28
+6669,2013,Engineering,Environ Engr In Civil Engr,110,55,55,34,7,1,6,1,1
+6678,2013,Engineering,"Nuclear, Plasma, Radiolgc Engr ",225,29,196,117,29,5,22,0,6.76
+6675,2013,Engineering,Mechanical Engineering,1197,155,1041,566,134,9,56,2,6.72
+6674,2013,Engineering,Materials Science & Engr,602,149,453,221,94,5,19,0,3.05
+6673,2013,Engineering,Industrial Engineering,296,66,230,99,47,3,8,0,3.49
+6671,2013,Engineering,Financial Engineering,98,36,62,4,6,0,0,0,1.73
+6447,2012,Engineering,Electrical Engineering,1163,142,1021,352,294,28,41,1,7.2
+6446,2012,Engineering,Electrical & Computer Engr,473,63,410,124,47,8,12,0,6.51
+6445,2012,Engineering,Computer Science,1386,161,1225,458,276,16,30,0,7.61
+6444,2012,Engineering,Computer Engineering,697,62,635,280,177,13,34,0,10.25
+6443,2012,Engineering,Civil Engineering,1241,300,941,623,113,21,61,1,3.14
+6441,2012,Engineering,Bioengineering,259,114,145,136,68,2,14,1,1.28
+6438,2012,Engineering,Aerospace Engineering,489,70,419,270,62,6,36,0,5.99
+6449,2012,Engineering,Engineering Physics,177,19,158,116,18,2,9,1,8.32
+6448,2012,Engineering,Engineering Mechanics,122,12,110,66,14,1,8,0,9.17
+6451,2012,Engineering,Environ Engr In Civil Engr,91,47,44,32,3,1,5,0,0.94
+6453,2012,Engineering,Financial Engineering,100,33,67,11,7,0,0,0,2.04
+6464,2012,Engineering,Theoretical & Applied Mechans,51,12,39,17,2,0,2,0,3.25
+6460,2012,Engineering,"Nuclear, Plasma, Radiolgc Engr ",231,28,203,130,30,5,16,0,7.25
+6457,2012,Engineering,Mechanical Engineering,1110,153,956,570,124,13,38,1,6.25
+6456,2012,Engineering,Materials Science & Engr,571,138,433,235,96,5,15,1,3.14
+6455,2012,Engineering,Industrial Engineering,268,62,206,84,42,8,6,0,3.33
+6221,2011,Engineering,Civil Engineering,1178,284,893,636,103,24,45,1,3.15
+6219,2011,Engineering,Bioengineering,231,97,134,127,56,0,13,1,1.39
+6216,2011,Engineering,Aerospace Engineering,507,70,437,290,66,7,26,2,6.25
+6223,2011,Engineering,Computer Science,1229,139,1090,455,226,14,19,0,7.85
+6222,2011,Engineering,Computer Engineering,608,45,563,267,134,10,35,1,12.52
+6232,2011,Engineering,Industrial Engineering,226,58,168,69,29,6,8,0,2.9
+6224,2011,Engineering,Electrical & Computer Engr,476,59,417,137,47,8,14,0,7.07
+6241,2011,Engineering,Theoretical & Applied Mechans,47,10,37,19,2,0,2,0,3.7
+6237,2011,Engineering,"Nuclear, Plasma, Radiolgc Engr ",209,25,184,124,24,2,11,0,7.36
+6234,2011,Engineering,Mechanical Engineering,1055,126,927,580,105,12,40,1,7.36
+6225,2011,Engineering,Electrical Engineering,1128,133,995,344,264,21,49,0,7.49
+6233,2011,Engineering,Materials Science & Engr,547,124,423,240,92,5,15,1,3.42
+6230,2011,Engineering,Financial Engineering,69,17,52,9,6,0,0,0,3.06
+6228,2011,Engineering,Environ Engr In Civil Engr,96,56,40,29,9,0,4,0,0.72
+6227,2011,Engineering,Engineering Physics,152,14,138,106,19,0,5,0,9.86
+6226,2011,Engineering,Engineering Mechanics,142,16,126,89,16,2,6,0,7.88
+6003,2010,Engineering,Computer Science,1169,136,1033,458,194,11,20,0,7.6
+6002,2010,Engineering,Computer Engineering,524,43,480,240,99,13,32,2,11.17
+6001,2010,Engineering,Civil Engineering,1169,291,875,678,103,27,43,0,3.01
+5999,2010,Engineering,Bioengineering,200,74,126,113,43,1,7,1,1.71
+5996,2010,Engineering,Aerospace Engineering,526,70,456,312,64,8,21,4,6.52
+6005,2010,Engineering,Electrical Engineering,1024,116,906,333,226,20,47,1,7.82
+6004,2010,Engineering,Electrical & Computer Engr,504,68,436,152,49,6,14,0,6.42
+6014,2010,Engineering,Mechanical Engineering,1092,112,978,618,112,15,38,2,8.74
+6006,2010,Engineering,Engineering Mechanics,135,20,115,82,17,1,6,0,5.75
+6017,2010,Engineering,"Nuclear, Plasma, Radiolgc Engr ",118,19,99,73,12,0,7,0,5.22
+6021,2010,Engineering,Theoretical & Applied Mechans,45,8,37,21,0,0,2,0,4.63
+6007,2010,Engineering,Engineering Physics,143,16,127,96,17,0,4,0,7.94
+6013,2010,Engineering,Materials Science & Engr,466,106,360,221,75,3,11,1,3.4
+6012,2010,Engineering,Industrial Engineering,201,56,145,68,22,4,7,0,2.59
+6010,2010,Engineering,Financial Engineering,26,5,21,2,3,0,0,0,4.2
+6008,2010,Engineering,Environ Engr In Civil Engr,84,44,40,28,4,0,6,0,0.91
+5785,2009,Engineering,Aerospace Engineering,507,64,443,313,70,10,19,4,6.93
+5793,2009,Engineering,Electrical & Computer Engr,513,67,446,157,44,9,11,0,6.66
+5792,2009,Engineering,Computer Science,1035,121,914,434,154,10,15,1,7.56
+5791,2009,Engineering,Computer Engineering,469,45,423,228,90,17,24,0,9.4
+5790,2009,Engineering,Civil Engineering,1090,272,816,668,87,27,43,1,3
+5788,2009,Engineering,Bioengineering,178,73,105,105,38,1,4,1,1.44
+5795,2009,Engineering,Engineering Mechanics,106,17,89,66,15,0,5,0,5.24
+5794,2009,Engineering,Electrical Engineering,945,107,837,337,222,21,45,1,7.83
+5796,2009,Engineering,Engineering Physics,139,14,125,101,17,2,5,0,8.93
+5808,2009,Engineering,Theoretical & Applied Mechans,46,7,39,18,1,0,2,0,5.58
+5797,2009,Engineering,Environ Engr In Civil Engr,80,40,40,31,6,0,5,0,1
+5805,2009,Engineering,"Nuclear, Plasma, Radiolgc Engr ",102,19,83,64,8,1,4,0,4.37
+5802,2009,Engineering,Mechanical Engineering,1052,114,936,638,106,21,38,1,8.22
+5801,2009,Engineering,Materials Science & Engr,463,119,344,236,68,5,9,1,2.9
+5800,2009,Engineering,Industrial Engineering,159,47,112,51,17,5,6,0,2.39
+5582,2008,Engineering,Aerospace Engineering,514,60,453,326,64,12,22,3,7.55
+5589,2008,Engineering,Electrical & Computer Engr,504,60,444,159,56,7,12,1,7.4
+5588,2008,Engineering,Computer Science,980,121,858,426,155,14,17,1,7.1
+5587,2008,Engineering,Computer Engineering,446,46,398,227,91,19,29,0,8.66
+5586,2008,Engineering,Civil Engineering,955,219,735,584,83,20,33,2,3.36
+5585,2008,Engineering,Bioengineering,173,72,101,102,39,1,3,1,1.41
+5590,2008,Engineering,Electrical Engineering,804,86,717,331,197,18,36,0,8.34
+5591,2008,Engineering,Engineering Mechanics,75,13,61,51,9,0,3,0,4.7
+5603,2008,Engineering,Theoretical & Applied Mechans,47,6,41,19,0,0,1,0,6.84
+5592,2008,Engineering,Engineering Physics,131,13,118,99,15,1,5,1,9.08
+5598,2008,Engineering,Mechanical Engineering,1099,129,968,695,113,25,35,1,7.51
+5597,2008,Engineering,Materials Science & Engr,439,100,339,229,72,7,9,1,3.39
+5596,2008,Engineering,Industrial Engineering,125,39,86,51,13,5,2,0,2.21
+5593,2008,Engineering,Environ Engr In Civil Engr,75,41,34,23,4,0,5,0,0.83
+5400,2007,Engineering,Industrial Engineering,87,28,59,43,10,3,2,0,2.11
+5397,2007,Engineering,Environ Engr In Civil Engr,63,30,33,18,4,0,2,0,1.1
+5396,2007,Engineering,Engineering Physics,134,13,121,102,16,0,7,0,9.31
+5395,2007,Engineering,Engineering Mechanics,49,12,37,38,5,0,2,0,3.09
+5394,2007,Engineering,Electrical Engineering,774,83,691,331,236,16,31,0,8.33
+5393,2007,Engineering,Electrical & Computer Engr,521,73,448,154,74,6,14,0,6.14
+5392,2007,Engineering,Computer Science,956,120,834,444,135,15,25,1,6.95
+5391,2007,Engineering,Computer Engineering,434,35,397,247,90,20,26,0,11.35
+5390,2007,Engineering,Civil Engineering,830,175,654,523,65,15,37,1,3.74
+5401,2007,Engineering,Materials Science & Engr,398,93,305,218,62,7,7,1,3.28
+5386,2007,Engineering,Aerospace Engineering,482,58,424,329,57,12,18,2,7.32
+5388,2007,Engineering,Bioengineering,136,57,79,77,36,1,3,0,1.39
+5402,2007,Engineering,Mechanical Engineering,1090,133,955,697,125,26,37,0,7.19
+5407,2007,Engineering,Theoretical & Applied Mechans,51,8,43,20,0,0,1,0,5.38
+5202,2006,Engineering,Engineering Physics,124,14,110,100,11,0,4,0,7.86
+5196,2006,Engineering,Civil Engineering,793,155,638,490,57,17,34,2,4.12
+5201,2006,Engineering,Engineering Mechanics,62,15,47,55,3,1,2,0,3.14
+5200,2006,Engineering,Electrical Engineering,1195,150,1045,455,325,22,34,0,6.97
+5199,2006,Engineering,Electrical & Computer Engr,163,28,135,44,24,1,5,0,4.83
+5198,2006,Engineering,Computer Science,987,118,867,481,157,10,32,2,7.35
+5197,2006,Engineering,Computer Engineering,477,36,439,273,100,27,25,0,12.2
+5194,2006,Engineering,Bioengineering,101,41,60,60,22,2,3,0,1.47
+5192,2006,Engineering,Aerospace Engineering,450,57,393,310,58,12,15,1,6.9
+5203,2006,Engineering,Environ Engr In Civil Engr,58,24,34,21,2,1,0,0,1.42
+5206,2006,Engineering,Industrial Engineering,81,23,58,46,10,2,2,0,2.53
+5207,2006,Engineering,Materials Science & Engr,403,103,300,215,61,4,8,1,2.92
+5213,2006,Engineering,Theoretical & Applied Mechans,61,9,52,21,0,0,1,0,5.78
+5208,2006,Engineering,Mechanical Engineering,1079,125,952,710,122,23,46,3,7.62
+5010,2005,Engineering,Computer Engineering,563,42,520,309,130,24,32,0,12.39
+5015,2005,Engineering,Environ Engr In Civil Engr,61,28,33,23,3,2,1,0,1.18
+5014,2005,Engineering,Engineering Physics,101,14,87,83,9,1,3,0,6.22
+5013,2005,Engineering,Engineering Mechanics,78,15,63,69,3,1,2,0,4.2
+5012,2005,Engineering,Electrical Engineering,1406,183,1223,531,383,24,31,2,6.69
+5011,2005,Engineering,Computer Science,1064,119,943,539,177,12,31,2,7.93
+5009,2005,Engineering,Civil Engineering,795,154,641,485,65,10,37,3,4.17
+5008,2005,Engineering,Bioengineering,60,20,40,37,16,1,0,0,2
+5006,2005,Engineering,Aerospace Engineering,429,61,368,311,50,6,12,1,6.04
+5018,2005,Engineering,Industrial Engineering,81,27,54,50,10,0,2,0,2
+5025,2005,Engineering,Theoretical & Applied Mechans,67,9,58,23,2,0,0,0,6.45
+5019,2005,Engineering,Materials Science & Engr,383,95,288,200,50,7,9,1,3.04
+5020,2005,Engineering,Mechanical Engineering,1055,121,931,700,131,19,42,4,7.7
+4824,2004,Engineering,Engineering Physics,102,17,85,86,10,1,3,0,5
+4823,2004,Engineering,Engineering Mechanics,72,14,58,64,3,1,2,0,4.15
+4822,2004,Engineering,Electrical Engineering,1444,201,1243,517,416,27,27,2,6.19
+4821,2004,Engineering,Computer Science,1192,137,1053,616,214,14,28,0,7.69
+4820,2004,Engineering,Computer Engineering,636,48,588,357,149,20,30,0,12.25
+4819,2004,Engineering,Civil Engineering,757,158,599,450,55,12,36,3,3.8
+4818,2004,Engineering,Bioengineering,24,6,18,14,9,0,0,0,3
+4816,2004,Engineering,Aerospace Engineering,433,73,359,325,40,8,16,0,4.92
+4825,2004,Engineering,Environ Engr In Civil Engr,74,30,44,18,4,3,1,0,1.47
+4828,2004,Engineering,Industrial Engineering,92,33,59,56,9,0,3,0,1.79
+4829,2004,Engineering,Materials Science & Engr,408,108,300,210,60,8,15,1,2.78
+4835,2004,Engineering,Theoretical & Applied Mechans,69,8,61,18,2,0,1,0,7.63
+4830,2004,Engineering,Mechanical Engineering,1014,115,899,686,124,14,44,4,7.82
+4634,2003,Engineering,Computer Science,1257,169,1088,615,238,25,23,2,6.44
+4660,2003,Engineering,Civil Engineering,795,169,626,473,47,17,31,1,3.71
+4670,2003,Engineering,Industrial Engineering,91,29,62,48,10,2,4,0,2.14
+4668,2003,Engineering,Electrical Engineering,1423,220,1203,525,377,23,34,2,5.47
+4661,2003,Engineering,Computer Engineering,756,73,683,411,198,35,41,0,9.36
+4658,2003,Engineering,Aerospace Engineering,417,74,343,301,43,7,19,0,4.64
+4673,2003,Engineering,Mechanical Engineering,954,109,845,638,101,13,37,3,7.76
+4672,2003,Engineering,Materials Science & Engr,158,50,108,55,15,1,6,0,2.16
+4676,2003,Engineering,Theoretical & Applied Mechans,66,7,59,18,1,0,1,0,8.43
+4448,2002,Engineering,Computer Science,1348,178,1170,659,261,30,27,3,6.58
+4483,2002,Engineering,Industrial Engineering,108,32,76,51,16,4,6,0,2.38
+4481,2002,Engineering,Electrical Engineering,1298,210,1088,509,341,17,39,2,5.19
+4474,2002,Engineering,Computer Engineering,825,87,738,424,241,42,48,1,8.49
+4473,2002,Engineering,Civil Engineering,793,167,626,471,37,18,33,1,3.75
+4471,2002,Engineering,Aerospace Engineering,428,79,349,306,42,5,18,0,4.42
+4487,2002,Engineering,Mechanical Engineering,888,86,802,592,90,14,43,1,9.33
+4486,2002,Engineering,Materials Science & Engr,142,36,106,50,10,1,2,0,2.95
+4489,2002,Engineering,Theoretical & Applied Mechans,60,6,54,15,1,0,1,0,9
+4285,2001,Engineering,Civil Engineering,776,169,607,503,46,14,32,1,3.6
+4295,2001,Engineering,Industrial Engineering,115,37,78,57,17,7,6,0,2.11
+4293,2001,Engineering,Electrical Engineering,1205,188,1017,518,283,22,33,3,5.41
+4287,2001,Engineering,Computer Science,1321,171,1150,653,255,32,29,5,6.73
+4286,2001,Engineering,Computer Engineering,847,79,768,436,251,43,50,0,9.73
+4283,2001,Engineering,Aerospace Engineering,412,68,344,291,38,6,21,1,5.06
+4298,2001,Engineering,Mechanical Engineering,918,86,832,625,96,17,37,1,9.68
+4297,2001,Engineering,Materials Science & Engr,135,35,100,48,5,1,4,1,2.86
+4300,2001,Engineering,Theoretical & Applied Mechans,50,4,46,12,1,0,1,0,11.5
+4109,2000,Engineering,Materials Science & Engr,115,31,84,38,7,0,5,0,2.71
+4106,2000,Engineering,Industrial Engineering,125,37,88,72,22,7,7,0,2.38
+4104,2000,Engineering,Electrical Engineering,1219,173,1046,576,291,23,44,1,6.05
+4098,2000,Engineering,Computer Science,1179,170,1009,598,206,34,30,2,5.94
+4097,2000,Engineering,Computer Engineering,806,76,730,451,231,38,46,1,9.61
+4096,2000,Engineering,Civil Engineering,781,158,623,540,44,16,31,0,3.95
+4093,2000,Engineering,Aerospace Engineering,378,71,307,259,40,8,20,1,4.33
+4110,2000,Engineering,Mechanical Engineering,891,100,791,598,103,21,32,1,7.91
+4112,2000,Engineering,Theoretical & Applied Mechans,58,6,52,13,2,0,2,0,8.67
+3874,1999,Engineering,Computer Science,1161,170,991,588,199,36,26,2,5.83
+3914,1999,Engineering,Industrial Engineering,148,41,107,99,22,7,5,0,2.61
+3912,1999,Engineering,Electrical Engineering,1282,157,1125,634,311,33,43,1,7.17
+3905,1999,Engineering,Computer Engineering,783,79,704,467,200,33,43,1,8.92
+3904,1999,Engineering,Civil Engineering,791,175,616,549,44,21,27,0,3.52
+3901,1999,Engineering,Aerospace Engineering,343,74,269,236,34,12,15,1,3.64
+3917,1999,Engineering,Materials Science & Engr,105,29,76,39,9,0,4,0,2.63
+3918,1999,Engineering,Mechanical Engineering,929,116,813,626,128,19,33,1,7.01
+3920,1999,Engineering,Theoretical & Applied Mechans,61,8,53,17,2,0,2,0,6.63
+3671,1998,Engineering,Computer Science,1067,152,915,562,181,36,27,2,6.02
+3699,1998,Engineering,Aerospace Engineering,299,61,238,204,26,11,17,1,3.91
+3709,1998,Engineering,Electrical Engineering,1355,157,1198,689,306,35,45,3,7.64
+3703,1998,Engineering,Computer Engineering,682,64,618,422,163,25,46,2,9.66
+3702,1998,Engineering,Civil Engineering,845,187,658,577,59,21,31,0,3.52
+3711,1998,Engineering,Industrial Engineering,158,48,110,103,23,4,8,0,2.3
+3714,1998,Engineering,Materials Science & Engr,107,30,77,39,8,0,4,1,2.57
+3715,1998,Engineering,Mechanical Engineering,988,129,859,687,123,27,40,2,6.66
+3717,1998,Engineering,Theoretical & Applied Mechans,56,9,47,18,2,0,2,0,5.23
+3496,1997,Engineering,Computer Science,1048,145,903,558,182,26,29,2,6.23
+3495,1997,Engineering,Computer Engineering,591,46,545,377,134,22,40,1,11.85
+3494,1997,Engineering,Civil Engineering,918,208,710,636,64,21,42,0,3.42
+3491,1997,Engineering,Aerospace Engineering,279,54,225,202,28,8,14,0,4.17
+3501,1997,Engineering,Electrical Engineering,1419,177,1242,756,323,43,48,4,7.02
+3503,1997,Engineering,Industrial Engineering,170,56,114,115,22,3,7,0,2.04
+3509,1997,Engineering,Theoretical & Applied Mechans,44,6,38,19,1,0,1,0,6.34
+3506,1997,Engineering,Materials Science & Engr,113,27,86,43,4,0,5,1,3.19
+3507,1997,Engineering,Mechanical Engineering,985,142,843,714,124,27,36,2,5.94
+3281,1996,Engineering,Civil Engineering,973,201,772,681,80,25,42,1,3.85
+3247,1996,Engineering,Computer Science,984,144,840,546,171,23,26,2,5.84
+3290,1996,Engineering,Industrial Engineering,156,54,102,103,21,6,6,0,1.89
+3288,1996,Engineering,Electrical Engineering,1469,195,1274,812,331,57,48,4,6.54
+3282,1996,Engineering,Computer Engineering,574,37,537,363,139,23,34,0,14.52
+3276,1996,Engineering,Aerospace Engineering,258,46,212,195,23,8,11,0,4.61
+3294,1996,Engineering,Mechanical Engineering,1029,135,894,726,143,35,34,3,6.63
+3293,1996,Engineering,Materials Science & Engr,111,21,90,45,7,0,4,1,4.29
+3297,1996,Engineering,Theoretical & Applied Mechans,41,6,35,16,1,0,2,0,5.84
+3077,1995,Engineering,Aerospace Engineering,286,34,252,223,28,8,9,0,7.42
+3089,1995,Engineering,Electrical Engineering,1512,186,1326,842,365,67,42,3,7.13
+3095,1995,Engineering,Mechanical Engineering,1030,126,904,735,136,40,34,2,7.18
+3094,1995,Engineering,Materials Science & Engr,130,28,102,56,7,0,5,0,3.65
+3091,1995,Engineering,Industrial Engineering,151,39,112,102,30,5,3,0,2.88
+3084,1995,Engineering,Computer Science,972,123,849,567,158,23,22,1,6.91
+3083,1995,Engineering,Computer Engineering,536,36,500,345,124,28,28,0,13.89
+3082,1995,Engineering,Civil Engineering,1068,207,861,759,94,26,43,2,4.16
+3098,1995,Engineering,Theoretical & Applied Mechans,37,4,33,16,1,1,1,0,8.25
+2852,1994,Engineering,Computer Science,971,130,841,556,148,24,25,1,6.47
+2896,1994,Engineering,Materials Science & Engr,121,25,96,50,4,0,3,0,3.84
+2894,1994,Engineering,Industrial Engineering,155,46,109,97,30,7,3,0,2.37
+2892,1994,Engineering,Electrical Engineering,1533,169,1364,869,370,66,52,4,8.08
+2886,1994,Engineering,Computer Engineering,430,37,393,268,102,29,22,0,10.63
+2885,1994,Engineering,Civil Engineering,1140,201,939,829,100,22,39,2,4.68
+2880,1994,Engineering,Aerospace Engineering,320,40,280,246,32,6,13,0,7
+2900,1994,Engineering,Theoretical & Applied Mechans,42,4,38,16,1,1,1,0,9.5
+2897,1994,Engineering,Mechanical Engineering,1036,111,925,749,146,35,38,3,8.34
+2694,1993,Engineering,Electrical Engineering,1509,163,1346,880,360,62,50,1,8.26
+2698,1993,Engineering,Mechanical Engineering,1005,97,908,763,114,34,35,3,9.37
+2696,1993,Engineering,Industrial Engineering,153,51,102,109,22,11,3,0,2
+2683,1993,Engineering,Aerospace Engineering,366,44,322,286,32,9,14,0,7.32
+2689,1993,Engineering,Computer Science,886,130,756,508,120,29,17,2,5.82
+2688,1993,Engineering,Computer Engineering,383,34,349,249,84,25,19,0,10.27
+2687,1993,Engineering,Civil Engineering,1121,192,929,821,101,26,45,1,4.84
+2701,1993,Engineering,Theoretical & Applied Mechans,52,3,49,25,1,1,1,0,16.34
+2463,1992,Engineering,Computer Science,782,100,682,458,110,27,16,1,6.82
+2501,1992,Engineering,Industrial Engineering,153,41,112,111,22,9,2,0,2.74
+2499,1992,Engineering,Electrical Engineering,1524,168,1356,923,360,54,44,1,8.08
+2493,1992,Engineering,Computer Engineering,326,28,298,220,59,25,18,0,10.65
+2492,1992,Engineering,Civil Engineering,934,152,782,707,72,21,29,1,5.15
+2488,1992,Engineering,Aerospace Engineering,392,45,347,303,40,13,15,0,7.72
+2503,1992,Engineering,Mechanical Engineering,989,88,901,744,119,40,29,2,10.24
+2506,1992,Engineering,Theoretical & Applied Mechans,55,4,51,28,0,0,1,0,12.75
+2268,1991,Engineering,Computer Science,788,110,678,476,101,29,8,1,6.17
+2305,1991,Engineering,Electrical Engineering,1516,163,1353,945,337,47,42,1,8.31
+2299,1991,Engineering,Computer Engineering,302,24,278,204,59,21,12,0,11.59
+2298,1991,Engineering,Civil Engineering,819,135,684,628,56,19,21,0,5.07
+2294,1991,Engineering,Aerospace Engineering,442,45,397,338,39,15,20,1,8.83
+2307,1991,Engineering,Industrial Engineering,169,53,116,122,32,9,4,0,2.19
+2309,1991,Engineering,Mechanical Engineering,1003,84,919,758,107,41,32,2,10.95
+2312,1991,Engineering,Theoretical & Applied Mechans,52,2,50,28,0,0,1,0,25
+2100,1990,Engineering,Computer Engineering,301,30,271,207,57,20,11,1,9.04
+2106,1990,Engineering,Electrical Engineering,1576,172,1404,990,333,60,49,0,8.17
+2101,1990,Engineering,Computer Science,785,117,668,485,99,32,12,0,5.71
+2099,1990,Engineering,Civil Engineering,749,102,647,567,41,13,14,1,6.35
+2095,1990,Engineering,Aerospace Engineering,479,49,430,366,42,15,28,1,8.78
+2108,1990,Engineering,Industrial Engineering,215,67,148,150,39,16,5,1,2.21
+2110,1990,Engineering,Mechanical Engineering,933,80,853,720,85,41,23,3,10.67
+2112,1990,Engineering,Theoretical & Applied Mechans,57,3,54,30,0,0,1,0,18
+1898,1989,Engineering,Computer Science,810,112,698,510,97,34,13,0,6.24
+1897,1989,Engineering,Computer Engineering,313,27,286,227,50,20,9,1,10.6
+1896,1989,Engineering,Civil Engineering,682,96,586,525,36,10,13,1,6.11
+1892,1989,Engineering,Aerospace Engineering,513,53,460,407,37,17,26,1,8.68
+1903,1989,Engineering,Electrical Engineering,1594,188,1406,1022,327,64,49,1,7.48
+1905,1989,Engineering,Industrial Engineering,261,69,192,196,40,11,7,1,2.79
+1909,1989,Engineering,Theoretical & Applied Mechans,63,5,58,34,2,1,1,0,11.6
+1907,1989,Engineering,Mechanical Engineering,854,89,765,671,68,41,20,2,8.6
+1664,1988,Engineering,Computer Science,844,125,719,557,88,22,12,1,5.76
+1690,1988,Engineering,Aerospace Engineering,610,58,552,499,48,18,20,0,9.52
+1701,1988,Engineering,Electrical Engineering,1864,219,1645,1241,385,68,52,3,7.52
+1695,1988,Engineering,Computer Engineering,368,35,333,263,61,21,11,0,9.52
+1694,1988,Engineering,Civil Engineering,641,97,544,503,29,11,10,0,5.61
+1703,1988,Engineering,Industrial Engineering,209,63,146,164,22,12,8,0,2.32
+1705,1988,Engineering,Mechanical Engineering,971,117,854,784,68,38,24,2,7.3
+1707,1988,Engineering,Theoretical & Applied Mechans,57,5,52,27,3,0,1,0,10.4
+1495,1987,Engineering,Computer Science,836,135,701,593,77,18,8,2,5.2
+1494,1987,Engineering,Computer Engineering,407,33,374,318,49,18,8,0,11.34
+1493,1987,Engineering,Civil Engineering,567,93,474,430,20,11,13,0,5.1
+1490,1987,Engineering,Aerospace Engineering,655,60,595,551,42,16,20,0,9.92
+1500,1987,Engineering,Electrical Engineering,2004,240,1764,1384,391,61,47,2,7.35
+1502,1987,Engineering,Industrial Engineering,201,61,140,159,18,11,9,0,2.3
+1507,1987,Engineering,Theoretical & Applied Mechans,58,5,53,29,4,0,1,0,10.6
+1504,1987,Engineering,Mechanical Engineering,1006,119,887,836,60,32,24,2,7.46
+1294,1986,Engineering,Computer Science,899,169,730,675,73,23,9,1,4.32
+1293,1986,Engineering,Computer Engineering,463,56,407,368,55,19,8,0,7.27
+1292,1986,Engineering,Civil Engineering,553,83,470,406,20,13,13,0,5.67
+1289,1986,Engineering,Aerospace Engineering,599,59,540,531,29,12,11,0,9.16
+1299,1986,Engineering,Electrical Engineering,2041,228,1813,1476,361,51,42,1,7.96
+1301,1986,Engineering,Industrial Engineering,202,69,133,165,8,18,7,0,1.93
+1306,1986,Engineering,Theoretical & Applied Mechans,45,4,41,25,1,0,0,0,10.25
+1303,1986,Engineering,Mechanical Engineering,1010,114,896,876,48,21,20,2,7.86
+1061,1985,Engineering,Computer Science,908,193,715,705,86,19,5,0,3.71
+1092,1985,Engineering,Computer Engineering,501,65,436,408,60,21,6,0,6.71
+1091,1985,Engineering,Civil Engineering,529,77,452,406,19,8,10,0,5.88
+1087,1985,Engineering,Aerospace Engineering,618,61,557,553,35,10,9,0,9.14
+1105,1985,Engineering,Theoretical & Applied Mechans,50,4,46,29,2,0,0,0,11.5
+1102,1985,Engineering,Mechanical Engineering,968,99,869,836,46,23,21,0,8.78
+1100,1985,Engineering,Industrial Engineering,158,49,109,134,3,14,4,0,2.23
+1098,1985,Engineering,Electrical Engineering,1945,234,1711,1439,324,49,38,4,7.32
+859,1984,Engineering,Computer Science,934,219,715,756,59,19,7,0,3.27
+888,1984,Engineering,Civil Engineering,552,83,469,434,23,7,6,1,5.66
+885,1984,Engineering,Aerospace Engineering,495,50,445,443,28,6,10,0,8.9
+889,1984,Engineering,Computer Engineering,484,76,408,402,50,24,5,0,5.37
+902,1984,Engineering,Theoretical & Applied Mechans,50,2,48,30,3,0,0,0,24
+899,1984,Engineering,Mechanical Engineering,879,86,793,750,49,19,16,1,9.23
+897,1984,Engineering,Industrial Engineering,135,46,89,114,5,7,7,0,1.94
+895,1984,Engineering,Electrical Engineering,1755,212,1543,1351,241,50,26,3,7.28
+690,1983,Engineering,Computer Science,1052,273,779,860,77,19,11,0,2.86
+689,1983,Engineering,Computer Engineering,426,78,348,350,46,26,2,0,4.47
+688,1983,Engineering,Civil Engineering,611,94,517,487,29,8,10,1,5.5
+684,1983,Engineering,Aerospace Engineering,473,45,428,425,24,5,10,1,9.52
+695,1983,Engineering,Electrical Engineering,1657,182,1475,1310,187,55,30,1,8.11
+702,1983,Engineering,Theoretical & Applied Mechans,46,4,42,24,4,0,0,0,10.5
+699,1983,Engineering,Mechanical Engineering,867,78,789,743,45,25,16,1,10.12
+697,1983,Engineering,Industrial Engineering,154,52,102,133,8,5,6,0,1.97
+490,1982,Engineering,Computer Science,966,245,721,800,74,18,8,2,2.95
+489,1982,Engineering,Computer Engineering,357,56,301,307,30,12,3,0,5.38
+488,1982,Engineering,Civil Engineering,672,104,568,559,23,5,13,1,5.47
+484,1982,Engineering,Aerospace Engineering,481,38,443,425,30,6,6,1,11.66
+495,1982,Engineering,Electrical Engineering,1512,159,1353,1227,144,52,18,2,8.51
+502,1982,Engineering,Theoretical & Applied Mechans,52,4,48,28,4,0,0,0,12
+499,1982,Engineering,Mechanical Engineering,954,86,868,836,44,27,18,1,10.1
+497,1982,Engineering,Industrial Engineering,180,56,124,152,13,6,6,0,2.22
+293,1981,Engineering,Computer Engineering,323,48,275,286,20,9,4,1,5.73
+292,1981,Engineering,Civil Engineering,811,110,701,663,24,12,15,1,6.38
+288,1981,Engineering,Aerospace Engineering,435,30,405,387,21,8,3,1,13.5
+294,1981,Engineering,Computer Science,829,206,623,689,64,17,6,2,3.03
+299,1981,Engineering,Electrical Engineering,1561,159,1402,1296,121,37,19,1,8.82
+306,1981,Engineering,Theoretical & Applied Mechans,50,5,45,25,4,0,0,0,9
+303,1981,Engineering,Mechanical Engineering,1021,82,939,910,44,17,12,1,11.46
+301,1981,Engineering,Industrial Engineering,188,53,135,167,8,6,5,0,2.55
+97,1980,Engineering,Aerospace Engineering,379,28,351,339,16,7,3,1,12.54
+101,1980,Engineering,Civil Engineering,902,110,792,733,14,12,12,3,7.2
+102,1980,Engineering,Computer Engineering,286,34,252,251,17,8,2,3,7.42
+103,1980,Engineering,Computer Science,697,153,544,576,43,15,2,1,3.56
+108,1980,Engineering,Electrical Engineering,1645,148,1497,1376,118,50,16,2,10.12
+114,1980,Engineering,Theoretical & Applied Mechans,50,4,46,26,6,0,0,0,11.5
+112,1980,Engineering,Mechanical Engineering,1012,78,934,887,42,17,12,2,11.98
+110,1980,Engineering,Industrial Engineering,188,58,130,157,7,12,5,1,2.25

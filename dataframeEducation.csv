@@ -1,0 +1,391 @@
+,Fall,College,Major_Name,Total,Female,Male,Caucasian,Asian American,African American,Hispanic,Native American,M/F
+7769,2018,Education,Secondary Education,20.0,7.0,13.0,15.0,0.0,0.0,3.0,0.0,1.86
+7770,2018,Education,Special Education,160.0,140.0,19.0,118.0,5.0,10.0,19.0,0.0,0.14
+7767,2018,Education,Middle Grades Education,82.0,62.0,20.0,44.0,10.0,7.0,17.0,0.0,0.32
+7766,2018,Education,Learning And Education Studies,48.0,34.0,14.0,14.0,7.0,6.0,10.0,0.0,0.41
+7764,2018,Education,Elementary Education,302.0,279.0,23.0,213.0,30.0,10.0,43.0,0.0,0.08
+7763,2018,Education,Educational Psychology,51.0,37.0,14.0,21.0,4.0,4.0,1.0,0.0,0.38
+7762,2018,Education,Educational Policy Studies,41.0,23.0,18.0,6.0,4.0,17.0,4.0,0.0,0.78
+7761,2018,Education,Education Curriculum Uassign,22.0,18.0,4.0,13.0,0.0,2.0,6.0,0.0,0.22
+7760,2018,Education,"Educ Policy, Orgzn & Leadrshp ",705.0,481.0,222.0,412.0,41.0,120.0,65.0,0.0,0.46
+7759,2018,Education,Ed Organization And Leadership,22.0,12.0,10.0,17.0,0.0,2.0,0.0,0.0,0.83
+7758,2018,Education,Early Childhood Education,56.0,54.0,2.0,22.0,13.0,3.0,8.0,0.0,0.04
+7755,2018,Education,Anthropology,152.0,102.0,50.0,74.0,10.0,17.0,17.0,0.0,0.49
+7754,2018,Education,African American Studies,20.0,14.0,6.0,0.0,1.0,16.0,1.0,0.0,0.43
+7753,2018,Education,Advertising,645.0,438.0,207.0,411.0,59.0,34.0,53.0,0.0,0.47
+7752,2018,Education,Actuarial Science,398.0,167.0,231.0,123.0,97.0,7.0,16.0,0.0,1.38
+7751,2018,Education,Accountancy,1430.0,774.0,656.0,509.0,217.0,42.0,92.0,0.0,0.85
+7750,2018,Education,Aces Undeclared,55.0,29.0,26.0,25.0,3.0,8.0,10.0,0.0,0.9
+7757,2018,Education,Curriculum And Instruction,79.0,62.0,17.0,34.0,7.0,8.0,11.0,0.0,0.27
+7541,2017,Education,Middle Grades Education,76.0,59.0,17.0,49.0,6.0,4.0,14.0,0.0,0.29
+7544,2017,Education,Special Education,175.0,154.0,21.0,131.0,5.0,8.0,23.0,0.0,0.14
+7533,2017,Education,Ed Organization And Leadership,34.0,18.0,16.0,26.0,2.0,2.0,0.0,1.0,0.89
+7540,2017,Education,Learning And Education Studies,58.0,41.0,17.0,18.0,5.0,12.0,7.0,0.0,0.41
+7538,2017,Education,Elementary Education,296.0,279.0,17.0,194.0,31.0,17.0,45.0,0.0,0.06
+7537,2017,Education,Educational Psychology,56.0,41.0,15.0,21.0,3.0,2.0,0.0,0.0,0.37
+7536,2017,Education,Educational Policy Studies,68.0,41.0,27.0,10.0,4.0,29.0,9.0,1.0,0.66
+7535,2017,Education,Education Curriculum Uassign,26.0,20.0,6.0,11.0,2.0,6.0,7.0,0.0,0.3
+7534,2017,Education,"Educ Policy, Orgzn & Leadrshp ",522.0,365.0,157.0,306.0,27.0,102.0,47.0,1.0,0.43
+7532,2017,Education,Early Childhood Education,65.0,62.0,3.0,34.0,9.0,2.0,9.0,1.0,0.05
+7531,2017,Education,Curriculum And Instruction,91.0,69.0,22.0,44.0,5.0,8.0,11.0,0.0,0.32
+7529,2017,Education,Anthropology,149.0,101.0,48.0,69.0,14.0,13.0,17.0,0.0,0.48
+7527,2017,Education,Advertising,632.0,427.0,205.0,398.0,58.0,35.0,48.0,0.0,0.48
+7526,2017,Education,Actuarial Science,335.0,121.0,214.0,121.0,77.0,5.0,12.0,0.0,1.77
+7525,2017,Education,Accountancy,1296.0,714.0,582.0,443.0,215.0,34.0,72.0,0.0,0.82
+7320,2016,Education,Special Education,174.0,153.0,21.0,136.0,7.0,6.0,19.0,0.0,0.14
+7309,2016,Education,Ed Organization And Leadership,28.0,18.0,10.0,16.0,2.0,3.0,1.0,1.0,0.56
+7319,2016,Education,Secondary Education,22.0,10.0,12.0,12.0,7.0,0.0,1.0,0.0,1.2
+7316,2016,Education,Middle Grades Education,37.0,29.0,8.0,25.0,3.0,4.0,5.0,0.0,0.28
+7315,2016,Education,Learning And Education Studies,46.0,37.0,9.0,19.0,3.0,12.0,6.0,0.0,0.24
+7313,2016,Education,Elementary Education,340.0,316.0,24.0,239.0,40.0,14.0,42.0,0.0,0.08
+7312,2016,Education,Educational Psychology,50.0,37.0,13.0,22.0,5.0,1.0,1.0,0.0,0.35
+7311,2016,Education,Educational Policy Studies,92.0,54.0,38.0,16.0,6.0,42.0,10.0,1.0,0.7
+7310,2016,Education,"Educ Policy, Orgzn & Leadrshp ",201.0,127.0,74.0,112.0,7.0,45.0,13.0,0.0,0.58
+7307,2016,Education,Curriculum And Instruction,101.0,76.0,25.0,51.0,4.0,9.0,12.0,1.0,0.33
+7308,2016,Education,Early Childhood Education,60.0,58.0,2.0,33.0,7.0,4.0,10.0,1.0,0.03
+7305,2016,Education,Anthropology,148.0,97.0,51.0,67.0,17.0,8.0,20.0,1.0,0.53
+7303,2016,Education,Advertising,587.0,394.0,193.0,358.0,53.0,30.0,52.0,0.0,0.49
+7302,2016,Education,Actuarial Science,343.0,137.0,206.0,132.0,71.0,3.0,10.0,0.0,1.5
+7301,2016,Education,Accountancy,1330.0,712.0,618.0,466.0,218.0,26.0,68.0,0.0,0.87
+7098,2015,Education,Secondary Education,22.0,10.0,12.0,14.0,6.0,0.0,2.0,0.0,1.2
+7099,2015,Education,Special Education,172.0,155.0,17.0,132.0,7.0,6.0,17.0,0.0,0.11
+7094,2015,Education,Learning And Education Studies,27.0,22.0,5.0,12.0,2.0,7.0,2.0,0.0,0.23
+7091,2015,Education,Educational Psychology,51.0,36.0,15.0,22.0,6.0,1.0,2.0,1.0,0.42
+7090,2015,Education,Educational Policy Studies,126.0,78.0,48.0,22.0,9.0,59.0,16.0,1.0,0.62
+7089,2015,Education,"Educ Policy, Orgzn & Leadrshp ",95.0,62.0,33.0,54.0,1.0,22.0,7.0,0.0,0.53
+7088,2015,Education,Ed Organization And Leadership,80.0,56.0,24.0,54.0,5.0,7.0,4.0,1.0,0.43
+7087,2015,Education,Early Childhood Education,62.0,60.0,2.0,37.0,8.0,5.0,9.0,0.0,0.03
+7092,2015,Education,Elementary Education,378.0,353.0,25.0,268.0,47.0,11.0,40.0,0.0,0.07
+7086,2015,Education,Curriculum And Instruction,116.0,89.0,27.0,60.0,4.0,10.0,12.0,0.0,0.3
+7084,2015,Education,Anthropology,146.0,103.0,43.0,69.0,12.0,10.0,24.0,1.0,0.42
+7082,2015,Education,Advertising,589.0,403.0,186.0,365.0,57.0,27.0,44.0,0.0,0.46
+7081,2015,Education,Actuarial Science,389.0,164.0,224.0,152.0,75.0,3.0,16.0,0.0,1.37
+7080,2015,Education,Accountancy,1422.0,735.0,687.0,526.0,205.0,29.0,63.0,0.0,0.93
+6876,2014,Education,Special Education,144.0,125.0,19.0,110.0,7.0,7.0,13.0,0.0,0.15
+6869,2014,Education,Educational Psychology,62.0,45.0,17.0,25.0,6.0,5.0,6.0,0.0,0.38
+6870,2014,Education,Elementary Education,216.0,200.0,16.0,161.0,26.0,4.0,17.0,0.0,0.08
+6868,2014,Education,Educational Policy Studies,155.0,91.0,64.0,36.0,9.0,70.0,19.0,1.0,0.7
+6867,2014,Education,Ed Organization And Leadership,101.0,66.0,35.0,66.0,6.0,12.0,7.0,1.0,0.53
+6866,2014,Education,Early Childhood Education,23.0,23.0,0.0,15.0,3.0,1.0,3.0,0.0,0.0
+6865,2014,Education,Curriculum And Instruction,112.0,90.0,22.0,55.0,6.0,13.0,12.0,0.0,0.24
+6861,2014,Education,Advertising,603.0,421.0,182.0,404.0,49.0,26.0,39.0,0.0,0.43
+6863,2014,Education,Anthropology,177.0,131.0,46.0,90.0,20.0,11.0,27.0,1.0,0.35
+6860,2014,Education,Actuarial Science,385.0,167.0,218.0,147.0,70.0,4.0,14.0,0.0,1.31
+6859,2014,Education,Accountancy,1490.0,758.0,732.0,586.0,219.0,30.0,68.0,0.0,0.97
+6644,2013,Education,Early Childhood Education,24.0,23.0,1.0,16.0,1.0,2.0,3.0,0.0,0.04
+6655,2013,Education,Special Education,136.0,122.0,14.0,109.0,9.0,5.0,7.0,0.0,0.11
+6649,2013,Education,Elementary Education,212.0,190.0,22.0,163.0,15.0,9.0,18.0,0.0,0.12
+6648,2013,Education,Educational Psychology,70.0,52.0,18.0,23.0,5.0,5.0,7.0,0.0,0.35
+6647,2013,Education,Educational Policy Studies,164.0,99.0,65.0,32.0,10.0,75.0,21.0,1.0,0.66
+6645,2013,Education,Ed Organization And Leadership,136.0,90.0,46.0,93.0,6.0,21.0,6.0,1.0,0.51
+6643,2013,Education,Curriculum And Instruction,113.0,85.0,28.0,65.0,9.0,10.0,9.0,1.0,0.33
+6641,2013,Education,Anthropology,199.0,141.0,58.0,116.0,16.0,15.0,27.0,1.0,0.41
+6639,2013,Education,Advertising,615.0,444.0,171.0,406.0,51.0,24.0,39.0,0.0,0.39
+6638,2013,Education,Actuarial Science,329.0,143.0,186.0,133.0,55.0,4.0,12.0,0.0,1.3
+6637,2013,Education,Accountancy,1431.0,729.0,701.0,621.0,239.0,32.0,70.0,0.0,0.96
+6425,2012,Education,Early Childhood Education,30.0,29.0,1.0,20.0,3.0,4.0,1.0,0.0,0.03
+6437,2012,Education,Special Education,147.0,130.0,17.0,121.0,6.0,6.0,7.0,0.0,0.13
+6431,2012,Education,Elementary Education,270.0,248.0,22.0,205.0,23.0,9.0,16.0,1.0,0.09
+6430,2012,Education,Educational Psychology,71.0,53.0,18.0,26.0,3.0,6.0,7.0,0.0,0.34
+6429,2012,Education,Educational Policy Studies,161.0,95.0,66.0,32.0,6.0,77.0,25.0,1.0,0.69
+6426,2012,Education,Ed Organization And Leadership,170.0,109.0,61.0,125.0,7.0,24.0,6.0,0.0,0.56
+6424,2012,Education,Curriculum And Instruction,113.0,89.0,24.0,62.0,10.0,7.0,10.0,1.0,0.27
+6422,2012,Education,Anthropology,226.0,157.0,69.0,133.0,16.0,13.0,29.0,1.0,0.44
+6420,2012,Education,Advertising,641.0,461.0,180.0,418.0,63.0,28.0,39.0,1.0,0.39
+6419,2012,Education,Actuarial Science,288.0,119.0,169.0,123.0,45.0,3.0,11.0,1.0,1.42
+6418,2012,Education,Accountancy,1366.0,677.0,689.0,635.0,216.0,34.0,70.0,1.0,1.02
+6215,2011,Education,Special Education,132.0,116.0,16.0,107.0,4.0,8.0,5.0,0.0,0.14
+6206,2011,Education,Ed Organization And Leadership,143.0,84.0,59.0,106.0,7.0,19.0,7.0,0.0,0.7
+6209,2011,Education,Elementary Education,306.0,283.0,22.0,239.0,25.0,11.0,14.0,1.0,0.08
+6208,2011,Education,Educational Psychology,79.0,61.0,18.0,26.0,2.0,8.0,9.0,0.0,0.3
+6207,2011,Education,Educational Policy Studies,135.0,85.0,50.0,28.0,6.0,59.0,27.0,2.0,0.59
+6205,2011,Education,Early Childhood Education,39.0,39.0,0.0,23.0,6.0,6.0,3.0,0.0,0.0
+6204,2011,Education,Curriculum And Instruction,121.0,99.0,22.0,69.0,10.0,8.0,7.0,1.0,0.22
+6202,2011,Education,Anthropology,205.0,141.0,64.0,135.0,11.0,11.0,22.0,2.0,0.45
+6199,2011,Education,Actuarial Science,279.0,120.0,159.0,110.0,44.0,9.0,12.0,0.0,1.32
+6200,2011,Education,Advertising,656.0,456.0,200.0,415.0,61.0,40.0,42.0,1.0,0.44
+6198,2011,Education,Accountancy,1297.0,635.0,662.0,571.0,228.0,36.0,66.0,2.0,1.04
+5995,2010,Education,Special Education,140.0,123.0,17.0,111.0,5.0,7.0,4.0,0.0,0.14
+5989,2010,Education,Elementary Education,308.0,288.0,19.0,238.0,22.0,12.0,16.0,0.0,0.07
+5988,2010,Education,Educational Psychology,93.0,66.0,27.0,34.0,4.0,11.0,9.0,0.0,0.41
+5987,2010,Education,Educational Policy Studies,149.0,96.0,53.0,31.0,8.0,54.0,33.0,2.0,0.55
+5986,2010,Education,Ed Organization And Leadership,136.0,81.0,55.0,100.0,6.0,19.0,4.0,0.0,0.68
+5985,2010,Education,Early Childhood Education,44.0,44.0,0.0,28.0,5.0,6.0,3.0,0.0,0.0
+5984,2010,Education,Curriculum And Instruction,89.0,69.0,20.0,54.0,10.0,6.0,5.0,1.0,0.29
+5982,2010,Education,Anthropology,201.0,132.0,69.0,132.0,18.0,11.0,24.0,0.0,0.52
+5980,2010,Education,Advertising,526.0,368.0,158.0,335.0,46.0,41.0,34.0,1.0,0.43
+5979,2010,Education,Actuarial Science,292.0,123.0,169.0,123.0,47.0,7.0,7.0,0.0,1.37
+5978,2010,Education,Accountancy,1273.0,601.0,672.0,604.0,225.0,36.0,51.0,1.0,1.12
+5776,2009,Education,Educational Policy Studies,149.0,96.0,53.0,29.0,8.0,53.0,33.0,6.0,0.55
+5784,2009,Education,Special Education,141.0,119.0,22.0,107.0,5.0,5.0,7.0,1.0,0.18
+5783,2009,Education,Secondary Education,21.0,12.0,9.0,16.0,2.0,0.0,2.0,0.0,0.75
+5778,2009,Education,Elementary Education,311.0,291.0,20.0,237.0,21.0,10.0,18.0,0.0,0.07
+5777,2009,Education,Educational Psychology,98.0,69.0,29.0,37.0,4.0,15.0,8.0,0.0,0.42
+5774,2009,Education,Early Childhood Education,42.0,41.0,1.0,35.0,2.0,3.0,1.0,0.0,0.02
+5775,2009,Education,Ed Organization And Leadership,155.0,95.0,59.0,113.0,7.0,19.0,6.0,0.0,0.62
+5773,2009,Education,Curriculum And Instruction,70.0,59.0,11.0,39.0,6.0,7.0,2.0,0.0,0.19
+5771,2009,Education,Anthropology,217.0,150.0,67.0,132.0,17.0,11.0,29.0,1.0,0.45
+5769,2009,Education,Advertising,442.0,295.0,146.0,299.0,34.0,40.0,30.0,1.0,0.49
+5768,2009,Education,Actuarial Science,286.0,112.0,174.0,132.0,47.0,9.0,5.0,0.0,1.55
+5767,2009,Education,Accountancy,1189.0,537.0,652.0,590.0,200.0,39.0,61.0,2.0,1.21
+5581,2008,Education,Special Education,133.0,112.0,20.0,101.0,5.0,7.0,8.0,1.0,0.18
+5576,2008,Education,Elementary Education,344.0,318.0,26.0,246.0,22.0,15.0,20.0,2.0,0.08
+5575,2008,Education,Educational Psychology,105.0,74.0,31.0,38.0,7.0,13.0,6.0,0.0,0.42
+5574,2008,Education,Educational Policy Studies,138.0,84.0,54.0,24.0,9.0,49.0,27.0,6.0,0.64
+5572,2008,Education,Early Childhood Education,56.0,54.0,1.0,48.0,2.0,1.0,3.0,0.0,0.02
+5573,2008,Education,Ed Organization And Leadership,162.0,104.0,58.0,124.0,5.0,19.0,6.0,0.0,0.56
+5571,2008,Education,Curriculum And Instruction,36.0,31.0,5.0,17.0,5.0,3.0,4.0,0.0,0.16
+5569,2008,Education,Anthropology,243.0,162.0,81.0,157.0,17.0,15.0,33.0,1.0,0.5
+5567,2008,Education,Advertising,460.0,326.0,134.0,337.0,31.0,30.0,24.0,2.0,0.41
+5566,2008,Education,Actuarial Science,294.0,105.0,189.0,160.0,43.0,7.0,3.0,0.0,1.8
+5565,2008,Education,Accountancy,1147.0,527.0,617.0,593.0,200.0,38.0,73.0,2.0,1.17
+5385,2007,Education,Special Education,143.0,122.0,21.0,119.0,3.0,5.0,3.0,0.0,0.17
+5380,2007,Education,Elementary Education,367.0,340.0,27.0,262.0,24.0,20.0,16.0,3.0,0.08
+5379,2007,Education,Educational Psychology,118.0,87.0,31.0,43.0,8.0,13.0,8.0,0.0,0.36
+5371,2007,Education,Actuarial Science,281.0,82.0,199.0,165.0,45.0,5.0,2.0,0.0,2.43
+5378,2007,Education,Educational Policy Studies,130.0,85.0,45.0,30.0,9.0,39.0,27.0,6.0,0.53
+5376,2007,Education,Ed Organization And Leadership,185.0,122.0,63.0,146.0,5.0,20.0,8.0,0.0,0.52
+5375,2007,Education,Early Childhood Education,61.0,60.0,0.0,47.0,1.0,4.0,7.0,0.0,0.0
+5373,2007,Education,Anthropology,220.0,146.0,74.0,153.0,13.0,9.0,28.0,1.0,0.51
+5372,2007,Education,Advertising,386.0,287.0,99.0,277.0,29.0,26.0,16.0,3.0,0.34
+5370,2007,Education,Accountancy,1120.0,519.0,594.0,619.0,187.0,41.0,68.0,1.0,1.14
+5191,2006,Education,Special Education,154.0,137.0,17.0,118.0,6.0,8.0,4.0,0.0,0.12
+5187,2006,Education,Elementary Education,389.0,358.0,30.0,285.0,22.0,21.0,21.0,1.0,0.08
+5185,2006,Education,Educational Policy Studies,129.0,83.0,46.0,29.0,10.0,36.0,26.0,6.0,0.55
+5186,2006,Education,Educational Psychology,132.0,96.0,36.0,51.0,7.0,12.0,8.0,0.0,0.38
+5175,2006,Education,Accountancy,1222.0,553.0,665.0,698.0,196.0,43.0,68.0,2.0,1.2
+5181,2006,Education,Ed Organization And Leadership,179.0,117.0,62.0,147.0,2.0,22.0,4.0,0.0,0.53
+5180,2006,Education,Early Childhood Education,53.0,53.0,0.0,40.0,1.0,5.0,5.0,0.0,0.0
+5178,2006,Education,Anthropology,222.0,153.0,69.0,150.0,9.0,10.0,28.0,2.0,0.45
+5177,2006,Education,Advertising,365.0,267.0,98.0,263.0,26.0,23.0,23.0,3.0,0.37
+5176,2006,Education,Actuarial Science,281.0,92.0,189.0,173.0,40.0,5.0,4.0,1.0,2.05
+5005,2005,Education,Special Education,157.0,142.0,15.0,121.0,7.0,7.0,3.0,0.0,0.11
+5002,2005,Education,Elementary Education,408.0,372.0,36.0,298.0,29.0,20.0,14.0,0.0,0.1
+5001,2005,Education,Educational Psychology,124.0,90.0,34.0,47.0,5.0,9.0,6.0,0.0,0.38
+5000,2005,Education,Educational Policy Studies,135.0,94.0,41.0,32.0,10.0,37.0,28.0,6.0,0.44
+4990,2005,Education,Accountancy,1261.0,572.0,687.0,740.0,189.0,46.0,60.0,2.0,1.2
+4996,2005,Education,Ed Organization And Leadership,127.0,80.0,47.0,96.0,1.0,19.0,5.0,0.0,0.59
+4995,2005,Education,Early Childhood Education,60.0,58.0,2.0,48.0,5.0,0.0,4.0,1.0,0.03
+4993,2005,Education,Anthropology,207.0,135.0,72.0,135.0,7.0,9.0,29.0,2.0,0.53
+4992,2005,Education,Advertising,263.0,196.0,67.0,193.0,22.0,16.0,13.0,2.0,0.34
+4991,2005,Education,Actuarial Science,249.0,82.0,167.0,159.0,38.0,6.0,7.0,1.0,2.04
+4815,2004,Education,Special Education,150.0,134.0,16.0,111.0,5.0,8.0,3.0,0.0,0.12
+4813,2004,Education,Elementary Education,405.0,366.0,39.0,283.0,37.0,25.0,14.0,0.0,0.11
+4812,2004,Education,Educational Psychology,131.0,91.0,40.0,47.0,5.0,9.0,5.0,1.0,0.44
+4811,2004,Education,Educational Policy Studies,132.0,87.0,45.0,30.0,8.0,37.0,31.0,4.0,0.52
+4808,2004,Education,Ed Organization And Leadership,148.0,95.0,53.0,105.0,1.0,29.0,5.0,0.0,0.56
+4807,2004,Education,Early Childhood Education,68.0,65.0,3.0,51.0,9.0,2.0,4.0,1.0,0.05
+4805,2004,Education,Anthropology,191.0,131.0,60.0,125.0,4.0,13.0,21.0,2.0,0.46
+4804,2004,Education,Advertising,267.0,206.0,61.0,189.0,31.0,16.0,12.0,0.0,0.3
+4803,2004,Education,Actuarial Science,232.0,80.0,152.0,141.0,41.0,8.0,7.0,1.0,1.9
+4802,2004,Education,Accountancy,1201.0,559.0,641.0,725.0,219.0,36.0,44.0,3.0,1.15
+4649,2003,Education,Early Childhood Education,63.0,60.0,3.0,48.0,6.0,2.0,7.0,0.0,0.05
+4650,2003,Education,Ed Organization And Leadership,165.0,90.0,75.0,109.0,2.0,32.0,2.0,0.0,0.83
+4652,2003,Education,Educational Psychology,136.0,90.0,46.0,55.0,1.0,5.0,5.0,1.0,0.51
+4653,2003,Education,Elementary Education,309.0,277.0,32.0,237.0,31.0,19.0,18.0,0.0,0.12
+4655,2003,Education,Special Education,134.0,118.0,16.0,107.0,2.0,3.0,1.0,0.0,0.14
+4631,2003,Education,Accountancy,1231.0,601.0,630.0,743.0,190.0,35.0,49.0,2.0,1.05
+4753,2003,Education,Advertising,313.0,234.0,79.0,214.0,33.0,18.0,15.0,0.0,0.34
+4702,2003,Education,Anthropology,68.0,44.0,24.0,33.0,0.0,2.0,7.0,1.0,0.55
+4463,2002,Education,Early Childhood Education,60.0,55.0,5.0,52.0,2.0,1.0,5.0,0.0,0.09
+4464,2002,Education,Ed Organization And Leadership,126.0,74.0,52.0,88.0,2.0,19.0,2.0,0.0,0.7
+4466,2002,Education,Educational Psychology,114.0,73.0,41.0,43.0,1.0,4.0,4.0,0.0,0.56
+4467,2002,Education,Elementary Education,333.0,300.0,33.0,263.0,33.0,18.0,16.0,0.0,0.11
+4469,2002,Education,Special Education,131.0,116.0,15.0,94.0,2.0,5.0,2.0,0.0,0.13
+4445,2002,Education,Accountancy,1139.0,566.0,573.0,707.0,156.0,33.0,51.0,1.0,1.01
+4566,2002,Education,Advertising,311.0,238.0,73.0,232.0,25.0,19.0,12.0,0.0,0.31
+4515,2002,Education,Anthropology,63.0,39.0,24.0,34.0,0.0,1.0,6.0,0.0,0.62
+4513,2002,Education,Actuarial Science,21.0,12.0,9.0,1.0,0.0,0.0,0.0,0.0,0.75
+4275,2001,Education,Early Childhood Education,59.0,55.0,4.0,51.0,3.0,1.0,3.0,0.0,0.07
+4276,2001,Education,Ed Organization And Leadership,115.0,59.0,56.0,74.0,2.0,21.0,1.0,0.0,0.95
+4278,2001,Education,Educational Psychology,100.0,71.0,29.0,39.0,2.0,3.0,3.0,0.0,0.41
+4279,2001,Education,Elementary Education,319.0,292.0,27.0,264.0,32.0,9.0,11.0,0.0,0.09
+4281,2001,Education,Special Education,130.0,115.0,15.0,94.0,4.0,2.0,1.0,0.0,0.13
+4258,2001,Education,Accountancy,1001.0,514.0,487.0,624.0,130.0,36.0,46.0,1.0,0.95
+4377,2001,Education,Advertising,312.0,233.0,79.0,247.0,22.0,17.0,12.0,0.0,0.34
+4326,2001,Education,Anthropology,65.0,42.0,23.0,34.0,1.0,0.0,4.0,0.0,0.55
+4086,2000,Education,Ed Organization And Leadership,107.0,61.0,46.0,70.0,1.0,18.0,0.0,0.0,0.75
+4085,2000,Education,Early Childhood Education,57.0,56.0,1.0,45.0,5.0,3.0,3.0,0.0,0.02
+4088,2000,Education,Educational Psychology,99.0,67.0,32.0,42.0,3.0,4.0,3.0,0.0,0.48
+4089,2000,Education,Elementary Education,298.0,273.0,25.0,243.0,30.0,8.0,10.0,0.0,0.09
+4091,2000,Education,Special Education,121.0,109.0,12.0,86.0,4.0,4.0,2.0,0.0,0.11
+4068,2000,Education,Accountancy,847.0,424.0,423.0,516.0,107.0,42.0,35.0,1.0,1.0
+4188,2000,Education,Advertising,294.0,207.0,87.0,213.0,25.0,28.0,15.0,0.0,0.42
+4138,2000,Education,Anthropology,64.0,40.0,24.0,32.0,2.0,1.0,6.0,0.0,0.6
+3871,1999,Education,Accountancy,887.0,433.0,454.0,589.0,115.0,41.0,36.0,1.0,1.05
+3888,1999,Education,Early Childhood Education,55.0,53.0,2.0,40.0,5.0,4.0,5.0,0.0,0.04
+3889,1999,Education,Ed Organization And Leadership,112.0,68.0,44.0,80.0,1.0,18.0,1.0,0.0,0.65
+3891,1999,Education,Educational Psychology,98.0,70.0,28.0,48.0,4.0,5.0,3.0,0.0,0.4
+3894,1999,Education,Special Education,96.0,85.0,11.0,66.0,3.0,5.0,3.0,0.0,0.13
+3892,1999,Education,Elementary Education,262.0,240.0,22.0,209.0,26.0,7.0,14.0,1.0,0.09
+3996,1999,Education,Advertising,291.0,190.0,101.0,207.0,24.0,33.0,11.0,1.0,0.53
+3944,1999,Education,Anthropology,64.0,43.0,21.0,34.0,3.0,0.0,5.0,0.0,0.49
+3685,1998,Education,Early Childhood Education,54.0,52.0,2.0,42.0,5.0,4.0,3.0,0.0,0.04
+3686,1998,Education,Ed Organization And Leadership,121.0,80.0,41.0,97.0,1.0,14.0,3.0,0.0,0.51
+3691,1998,Education,Special Education,98.0,87.0,11.0,74.0,2.0,6.0,0.0,0.0,0.13
+3689,1998,Education,Elementary Education,237.0,218.0,19.0,186.0,18.0,18.0,12.0,1.0,0.09
+3688,1998,Education,Educational Psychology,100.0,73.0,27.0,51.0,3.0,7.0,2.0,0.0,0.37
+3668,1998,Education,Accountancy,952.0,469.0,483.0,627.0,121.0,55.0,38.0,0.0,1.03
+3794,1998,Education,Advertising,275.0,184.0,91.0,187.0,23.0,20.0,15.0,1.0,0.49
+3743,1998,Education,Anthropology,71.0,49.0,22.0,47.0,2.0,0.0,4.0,0.0,0.45
+3456,1997,Education,Accountancy,996.0,485.0,511.0,649.0,120.0,70.0,46.0,1.0,1.05
+3474,1997,Education,Ed Organization And Leadership,130.0,79.0,51.0,107.0,0.0,14.0,0.0,0.0,0.65
+3473,1997,Education,Early Childhood Education,53.0,52.0,1.0,43.0,4.0,3.0,2.0,0.0,0.02
+3476,1997,Education,Educational Psychology,113.0,80.0,33.0,64.0,5.0,5.0,1.0,0.0,0.41
+3479,1997,Education,Special Education,97.0,86.0,11.0,69.0,3.0,7.0,0.0,0.0,0.13
+3477,1997,Education,Elementary Education,230.0,211.0,19.0,194.0,16.0,14.0,4.0,0.0,0.09
+3427,1997,Education,Secondary Education,29.0,20.0,9.0,25.0,2.0,1.0,1.0,0.0,0.45
+3584,1997,Education,Advertising,273.0,160.0,113.0,197.0,22.0,15.0,14.0,0.0,0.71
+3534,1997,Education,Anthropology,77.0,50.0,27.0,47.0,2.0,1.0,5.0,0.0,0.54
+3259,1996,Education,Ed Organization And Leadership,127.0,77.0,50.0,101.0,1.0,19.0,0.0,0.0,0.65
+3262,1996,Education,Elementary Education,297.0,278.0,19.0,261.0,18.0,11.0,6.0,0.0,0.07
+3261,1996,Education,Educational Psychology,120.0,83.0,37.0,63.0,5.0,5.0,2.0,0.0,0.45
+3258,1996,Education,Early Childhood Education,58.0,57.0,1.0,47.0,4.0,4.0,1.0,0.0,0.02
+3264,1996,Education,Special Education,110.0,96.0,14.0,86.0,2.0,7.0,1.0,0.0,0.15
+3245,1996,Education,Accountancy,1093.0,542.0,551.0,745.0,137.0,63.0,39.0,1.0,1.02
+3213,1996,Education,Secondary Education,22.0,14.0,8.0,19.0,3.0,0.0,0.0,0.0,0.57
+3322,1996,Education,Anthropology,75.0,48.0,27.0,45.0,3.0,1.0,4.0,0.0,0.56
+3373,1996,Education,Advertising,235.0,130.0,105.0,180.0,15.0,14.0,13.0,0.0,0.81
+3066,1995,Education,Special Education,122.0,109.0,13.0,92.0,1.0,10.0,1.0,0.0,0.12
+3065,1995,Education,Elementary Education,375.0,348.0,27.0,332.0,19.0,13.0,9.0,0.0,0.08
+3064,1995,Education,Educational Psychology,137.0,97.0,40.0,73.0,7.0,7.0,4.0,0.0,0.41
+3062,1995,Education,Ed Organization And Leadership,109.0,64.0,45.0,76.0,2.0,14.0,3.0,0.0,0.7
+3061,1995,Education,Early Childhood Education,66.0,65.0,1.0,55.0,3.0,3.0,3.0,0.0,0.02
+3047,1995,Education,Accountancy,1134.0,553.0,581.0,798.0,152.0,58.0,41.0,2.0,1.05
+3015,1995,Education,Secondary Education,24.0,11.0,13.0,21.0,3.0,0.0,0.0,0.0,1.18
+3174,1995,Education,Advertising,224.0,145.0,79.0,162.0,17.0,10.0,14.0,0.0,0.54
+3123,1995,Education,Anthropology,87.0,47.0,40.0,56.0,2.0,1.0,3.0,0.0,0.85
+2867,1994,Education,Educational Psychology,136.0,91.0,45.0,74.0,6.0,7.0,4.0,0.0,0.49
+2865,1994,Education,Ed Organization And Leadership,86.0,47.0,39.0,60.0,1.0,13.0,2.0,0.0,0.83
+2864,1994,Education,Early Childhood Education,76.0,74.0,2.0,61.0,5.0,6.0,3.0,0.0,0.03
+2869,1994,Education,Special Education,125.0,108.0,17.0,85.0,2.0,11.0,0.0,0.0,0.16
+2868,1994,Education,Elementary Education,408.0,376.0,32.0,359.0,20.0,14.0,12.0,1.0,0.09
+2850,1994,Education,Accountancy,1150.0,578.0,572.0,810.0,142.0,61.0,45.0,1.0,0.99
+2818,1994,Education,Secondary Education,32.0,16.0,16.0,29.0,3.0,0.0,0.0,0.0,1.0
+2976,1994,Education,Advertising,259.0,176.0,83.0,183.0,22.0,19.0,14.0,0.0,0.47
+2924,1994,Education,Anthropology,99.0,56.0,43.0,61.0,5.0,1.0,3.0,0.0,0.77
+2675,1993,Education,Special Education,116.0,106.0,10.0,81.0,1.0,9.0,1.0,0.0,0.09
+2674,1993,Education,Elementary Education,401.0,369.0,32.0,346.0,19.0,17.0,12.0,1.0,0.09
+2673,1993,Education,Educational Psychology,144.0,105.0,39.0,84.0,6.0,5.0,5.0,0.0,0.37
+2671,1993,Education,Ed Organization And Leadership,96.0,56.0,40.0,73.0,2.0,7.0,1.0,0.0,0.71
+2670,1993,Education,Early Childhood Education,78.0,76.0,2.0,60.0,5.0,7.0,5.0,0.0,0.03
+2656,1993,Education,Accountancy,1259.0,591.0,668.0,887.0,149.0,81.0,48.0,1.0,1.13
+2623,1993,Education,Secondary Education,41.0,24.0,17.0,38.0,3.0,0.0,0.0,0.0,0.71
+2776,1993,Education,Advertising,235.0,160.0,75.0,165.0,27.0,25.0,6.0,0.0,0.47
+2726,1993,Education,Anthropology,89.0,51.0,38.0,56.0,4.0,0.0,2.0,0.0,0.75
+2476,1992,Education,Ed Organization And Leadership,95.0,62.0,33.0,68.0,0.0,8.0,2.0,0.0,0.53
+2475,1992,Education,Early Childhood Education,67.0,66.0,1.0,54.0,5.0,6.0,2.0,0.0,0.02
+2479,1992,Education,Elementary Education,377.0,350.0,27.0,318.0,19.0,20.0,13.0,1.0,0.08
+2478,1992,Education,Educational Psychology,136.0,101.0,35.0,76.0,4.0,4.0,5.0,0.0,0.35
+2480,1992,Education,Special Education,96.0,87.0,9.0,71.0,1.0,8.0,2.0,0.0,0.1
+2461,1992,Education,Accountancy,1283.0,623.0,660.0,887.0,153.0,91.0,54.0,1.0,1.06
+2428,1992,Education,Secondary Education,46.0,28.0,18.0,42.0,2.0,0.0,2.0,0.0,0.64
+2581,1992,Education,Advertising,237.0,162.0,75.0,178.0,18.0,28.0,6.0,0.0,0.46
+2531,1992,Education,Anthropology,97.0,56.0,41.0,57.0,3.0,0.0,2.0,0.0,0.73
+2280,1991,Education,Early Childhood Education,72.0,72.0,0.0,59.0,6.0,4.0,3.0,0.0,0.0
+2265,1991,Education,Accountancy,1253.0,627.0,626.0,894.0,142.0,93.0,55.0,1.0,1.0
+2281,1991,Education,Ed Organization And Leadership,105.0,70.0,35.0,76.0,0.0,9.0,1.0,0.0,0.5
+2284,1991,Education,Educational Psychology,128.0,94.0,34.0,75.0,3.0,4.0,4.0,0.0,0.36
+2286,1991,Education,Special Education,90.0,78.0,12.0,64.0,1.0,7.0,1.0,0.0,0.15
+2285,1991,Education,Elementary Education,395.0,376.0,19.0,340.0,25.0,19.0,9.0,1.0,0.05
+2230,1991,Education,Secondary Education,31.0,18.0,13.0,28.0,1.0,0.0,2.0,0.0,0.72
+2385,1991,Education,Advertising,270.0,194.0,76.0,209.0,7.0,33.0,9.0,2.0,0.39
+2336,1991,Education,Anthropology,87.0,50.0,37.0,53.0,1.0,1.0,2.0,0.0,0.74
+2083,1990,Education,Ed Organization And Leadership,106.0,66.0,40.0,76.0,1.0,7.0,0.0,0.0,0.61
+2082,1990,Education,Early Childhood Education,62.0,61.0,1.0,55.0,1.0,3.0,3.0,0.0,0.02
+2085,1990,Education,Educational Psychology,137.0,95.0,42.0,77.0,3.0,5.0,5.0,0.0,0.44
+2066,1990,Education,Accountancy,1180.0,567.0,613.0,843.0,122.0,108.0,42.0,1.0,1.08
+2086,1990,Education,Elementary Education,390.0,379.0,11.0,342.0,18.0,14.0,14.0,1.0,0.03
+2087,1990,Education,Special Education,77.0,62.0,15.0,51.0,3.0,4.0,0.0,0.0,0.24
+2030,1990,Education,Secondary Education,32.0,20.0,12.0,28.0,2.0,0.0,2.0,0.0,0.6
+2186,1990,Education,Advertising,254.0,180.0,74.0,202.0,9.0,21.0,7.0,1.0,0.41
+2136,1990,Education,Anthropology,78.0,42.0,36.0,44.0,2.0,1.0,1.0,0.0,0.86
+1863,1989,Education,Accountancy,1085.0,541.0,544.0,819.0,76.0,85.0,42.0,1.0,1.01
+1879,1989,Education,Early Childhood Education,58.0,58.0,0.0,50.0,2.0,1.0,4.0,0.0,0.0
+1880,1989,Education,Ed Organization And Leadership,93.0,58.0,35.0,77.0,1.0,2.0,0.0,0.0,0.6
+1884,1989,Education,Special Education,74.0,66.0,8.0,55.0,2.0,0.0,0.0,0.0,0.12
+1883,1989,Education,Elementary Education,343.0,332.0,11.0,312.0,9.0,8.0,11.0,1.0,0.03
+1882,1989,Education,Educational Psychology,143.0,96.0,47.0,77.0,2.0,5.0,4.0,1.0,0.49
+1828,1989,Education,Secondary Education,33.0,15.0,18.0,31.0,0.0,0.0,2.0,0.0,1.2
+1985,1989,Education,Advertising,262.0,195.0,67.0,223.0,9.0,9.0,4.0,0.0,0.34
+1934,1989,Education,Anthropology,78.0,39.0,39.0,47.0,2.0,1.0,1.0,0.0,1.0
+1661,1988,Education,Accountancy,1136.0,582.0,554.0,887.0,73.0,76.0,31.0,0.0,0.95
+1678,1988,Education,Ed Organization And Leadership,150.0,84.0,66.0,123.0,1.0,13.0,2.0,0.0,0.79
+1677,1988,Education,Early Childhood Education,63.0,63.0,0.0,57.0,1.0,0.0,2.0,1.0,0.0
+1680,1988,Education,Educational Psychology,160.0,103.0,57.0,91.0,5.0,7.0,3.0,1.0,0.55
+1682,1988,Education,Special Education,71.0,61.0,10.0,58.0,1.0,1.0,1.0,1.0,0.16
+1681,1988,Education,Elementary Education,350.0,339.0,11.0,324.0,8.0,5.0,10.0,1.0,0.03
+1628,1988,Education,Secondary Education,32.0,12.0,20.0,31.0,1.0,0.0,0.0,0.0,1.67
+1782,1988,Education,Advertising,262.0,195.0,67.0,227.0,12.0,6.0,1.0,2.0,0.34
+1731,1988,Education,Anthropology,68.0,29.0,39.0,43.0,3.0,1.0,1.0,0.0,1.34
+1462,1987,Education,Accountancy,1039.0,535.0,504.0,847.0,59.0,63.0,17.0,0.0,0.94
+1477,1987,Education,Early Childhood Education,96.0,96.0,0.0,89.0,1.0,2.0,3.0,1.0,0.0
+1478,1987,Education,Ed Organization And Leadership,154.0,77.0,77.0,125.0,1.0,12.0,2.0,0.0,1.0
+1482,1987,Education,Special Education,74.0,64.0,10.0,59.0,1.0,2.0,1.0,1.0,0.16
+1481,1987,Education,Elementary Education,340.0,329.0,11.0,322.0,7.0,1.0,8.0,1.0,0.03
+1480,1987,Education,Educational Psychology,161.0,104.0,57.0,98.0,5.0,7.0,3.0,1.0,0.55
+1429,1987,Education,Secondary Education,31.0,13.0,18.0,29.0,2.0,0.0,0.0,0.0,1.38
+1582,1987,Education,Advertising,266.0,195.0,71.0,235.0,0.0,15.0,0.0,6.0,0.36
+1531,1987,Education,Anthropology,58.0,25.0,33.0,37.0,2.0,0.0,2.0,0.0,1.32
+1262,1986,Education,Accountancy,1081.0,561.0,520.0,899.0,41.0,65.0,20.0,0.0,0.93
+1276,1986,Education,Early Childhood Education,87.0,87.0,0.0,81.0,2.0,2.0,0.0,0.0,0.0
+1277,1986,Education,Ed Organization And Leadership,143.0,71.0,72.0,111.0,1.0,12.0,2.0,0.0,1.01
+1281,1986,Education,Special Education,73.0,62.0,11.0,60.0,1.0,1.0,1.0,0.0,0.18
+1280,1986,Education,Elementary Education,388.0,371.0,17.0,364.0,8.0,3.0,8.0,2.0,0.05
+1279,1986,Education,Educational Psychology,135.0,80.0,55.0,84.0,5.0,6.0,5.0,1.0,0.69
+1227,1986,Education,Secondary Education,44.0,27.0,17.0,42.0,2.0,0.0,0.0,0.0,0.63
+1380,1986,Education,Advertising,256.0,181.0,75.0,234.0,8.0,0.0,0.0,0.0,0.41
+1329,1986,Education,Anthropology,71.0,35.0,36.0,46.0,4.0,0.0,3.0,0.0,1.03
+1059,1985,Education,Accountancy,1212.0,626.0,586.0,1050.0,40.0,59.0,17.0,0.0,0.94
+1074,1985,Education,Early Childhood Education,71.0,69.0,2.0,64.0,1.0,3.0,1.0,0.0,0.03
+1079,1985,Education,Special Education,70.0,61.0,9.0,56.0,0.0,2.0,1.0,0.0,0.15
+1078,1985,Education,Elementary Education,347.0,334.0,13.0,327.0,11.0,3.0,3.0,2.0,0.04
+1077,1985,Education,Educational Psychology,138.0,80.0,58.0,87.0,4.0,8.0,3.0,1.0,0.72
+1075,1985,Education,Ed Organization And Leadership,95.0,51.0,44.0,75.0,1.0,4.0,1.0,0.0,0.86
+1023,1985,Education,Secondary Education,47.0,31.0,16.0,46.0,0.0,0.0,1.0,0.0,0.52
+1179,1985,Education,Advertising,250.0,171.0,79.0,231.0,3.0,3.0,0.0,0.0,0.46
+1128,1985,Education,Anthropology,53.0,23.0,30.0,35.0,1.0,0.0,3.0,0.0,1.3
+857,1984,Education,Accountancy,1315.0,667.0,648.0,1144.0,42.0,64.0,19.0,2.0,0.97
+877,1984,Education,Special Education,68.0,55.0,13.0,48.0,2.0,3.0,2.0,0.0,0.24
+876,1984,Education,Elementary Education,348.0,331.0,17.0,330.0,9.0,3.0,3.0,2.0,0.05
+875,1984,Education,Educational Psychology,133.0,76.0,57.0,96.0,5.0,5.0,1.0,1.0,0.75
+873,1984,Education,Ed Organization And Leadership,106.0,54.0,52.0,79.0,0.0,4.0,2.0,1.0,0.96
+872,1984,Education,Early Childhood Education,72.0,70.0,2.0,65.0,0.0,2.0,1.0,1.0,0.03
+821,1984,Education,Secondary Education,40.0,28.0,12.0,38.0,1.0,0.0,1.0,0.0,0.43
+975,1984,Education,Advertising,257.0,179.0,78.0,9.0,1.0,6.0,234.0,5.0,0.44
+924,1984,Education,Anthropology,59.0,27.0,32.0,40.0,0.0,2.0,3.0,0.0,1.19
+656,1983,Education,Accountancy,1529.0,738.0,791.0,1351.0,42.0,75.0,20.0,1.0,1.07
+671,1983,Education,Early Childhood Education,56.0,55.0,1.0,54.0,0.0,1.0,1.0,0.0,0.02
+672,1983,Education,Ed Organization And Leadership,115.0,66.0,49.0,88.0,0.0,7.0,2.0,0.0,0.74
+676,1983,Education,Special Education,90.0,79.0,11.0,70.0,4.0,2.0,2.0,0.0,0.14
+675,1983,Education,Elementary Education,370.0,351.0,19.0,348.0,8.0,8.0,2.0,3.0,0.05
+674,1983,Education,Educational Psychology,149.0,83.0,66.0,100.0,6.0,7.0,6.0,1.0,0.8
+619,1983,Education,Secondary Education,28.0,19.0,9.0,26.0,1.0,0.0,0.0,0.0,0.47
+773,1983,Education,Advertising,253.0,174.0,79.0,230.0,3.0,10.0,1.0,0.0,0.45
+724,1983,Education,Anthropology,57.0,21.0,36.0,34.0,1.0,1.0,6.0,0.0,1.71
+456,1982,Education,Accountancy,1554.0,692.0,862.0,1385.0,36.0,71.0,21.0,3.0,1.25
+471,1982,Education,Early Childhood Education,38.0,38.0,0.0,38.0,0.0,0.0,0.0,0.0,0.0
+476,1982,Education,Special Education,106.0,91.0,15.0,81.0,5.0,2.0,1.0,0.0,0.16
+475,1982,Education,Elementary Education,382.0,361.0,21.0,363.0,5.0,8.0,4.0,1.0,0.06
+474,1982,Education,Educational Psychology,172.0,103.0,69.0,111.0,3.0,8.0,7.0,0.0,0.67
+472,1982,Education,Ed Organization And Leadership,130.0,75.0,55.0,100.0,1.0,9.0,2.0,0.0,0.73
+423,1982,Education,Secondary Education,21.0,12.0,9.0,21.0,0.0,0.0,0.0,0.0,0.75
+571,1982,Education,Advertising,248.0,170.0,78.0,7.0,0.0,5.0,232.0,4.0,0.46
+525,1982,Education,Anthropology,70.0,36.0,34.0,45.0,1.0,3.0,3.0,0.0,0.94
+261,1981,Education,Accountancy,1605.0,680.0,925.0,1421.0,46.0,69.0,15.0,4.0,1.36
+280,1981,Education,Elementary Education,432.0,405.0,27.0,408.0,4.0,10.0,5.0,2.0,0.07
+281,1981,Education,Special Education,128.0,110.0,18.0,108.0,2.0,5.0,3.0,0.0,0.16
+279,1981,Education,Educational Psychology,148.0,79.0,69.0,104.0,7.0,10.0,7.0,0.0,0.87
+277,1981,Education,Ed Organization And Leadership,129.0,72.0,57.0,106.0,1.0,9.0,2.0,0.0,0.79
+276,1981,Education,Early Childhood Education,57.0,57.0,0.0,54.0,0.0,1.0,2.0,0.0,0.0
+230,1981,Education,Secondary Education,20.0,12.0,8.0,20.0,0.0,0.0,0.0,0.0,0.67
+375,1981,Education,Advertising,234.0,165.0,69.0,219.0,5.0,2.0,1.0,0.0,0.42
+328,1981,Education,Anthropology,64.0,32.0,32.0,40.0,2.0,3.0,4.0,0.0,1.0
+70,1980,Education,Accountancy,1529.0,601.0,928.0,1370.0,43.0,63.0,9.0,4.0,1.54
+90,1980,Education,Special Education,105.0,87.0,18.0,92.0,1.0,2.0,2.0,0.0,0.21
+85,1980,Education,Early Childhood Education,78.0,78.0,0.0,75.0,1.0,2.0,0.0,0.0,0.0
+86,1980,Education,Ed Organization And Leadership,135.0,70.0,65.0,107.0,1.0,11.0,1.0,0.0,0.93
+88,1980,Education,Educational Psychology,156.0,91.0,65.0,111.0,6.0,11.0,6.0,1.0,0.71
+89,1980,Education,Elementary Education,428.0,395.0,33.0,410.0,1.0,4.0,4.0,5.0,0.08
+183,1980,Education,Advertising,240.0,163.0,77.0,7.0,1.0,9.0,219.0,4.0,0.47
+136,1980,Education,Anthropology,78.0,36.0,42.0,52.0,3.0,1.0,4.0,0.0,1.17

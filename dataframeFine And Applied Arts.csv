@@ -1,0 +1,661 @@
+,Fall,College,Major_Name,Total,Female,Male,Caucasian,Asian American,African American,Hispanic,Native American,M/F
+7807,2018,Fine And Applied Arts,Instrumental Music,77.0,47.0,30.0,45.0,13.0,2.0,9.0,0.0,0.64
+7804,2018,Fine And Applied Arts,Graphic Design,185.0,127.0,58.0,84.0,35.0,15.0,22.0,0.0,0.46
+7803,2018,Fine And Applied Arts,Dance,68.0,59.0,9.0,42.0,1.0,14.0,5.0,0.0,0.15
+7800,2018,Fine And Applied Arts,Art And Design,47.0,29.0,18.0,22.0,4.0,1.0,2.0,0.0,0.62
+7797,2018,Fine And Applied Arts,Art Education,54.0,51.0,3.0,30.0,5.0,5.0,5.0,0.0,0.06
+7796,2018,Fine And Applied Arts,Architecture,199.0,99.0,99.0,61.0,12.0,7.0,12.0,0.0,1.0
+7795,2018,Fine And Applied Arts,Architectural Studies,418.0,167.0,251.0,195.0,49.0,25.0,78.0,0.0,1.5
+7789,2018,Fine And Applied Arts,Nondegree,181.0,49.0,132.0,20.0,2.0,0.0,3.0,0.0,2.69
+7725,2018,Fine And Applied Arts,Nondegree,81.0,41.0,40.0,51.0,0.0,1.0,4.0,0.0,0.98
+7731,2018,Fine And Applied Arts,Nondegree,38.0,22.0,16.0,22.0,4.0,3.0,4.0,0.0,0.73
+7744,2018,Fine And Applied Arts,Nondegree,97.0,47.0,50.0,2.0,0.0,0.0,0.0,0.0,1.06
+7806,2018,Fine And Applied Arts,Industrial Design,201.0,102.0,99.0,56.0,48.0,7.0,15.0,0.0,0.97
+7808,2018,Fine And Applied Arts,Jazz Performance,31.0,6.0,25.0,16.0,2.0,3.0,4.0,0.0,4.17
+7887,2018,Fine And Applied Arts,Nondegree,149.0,73.0,76.0,51.0,6.0,1.0,6.0,0.0,1.04
+7809,2018,Fine And Applied Arts,Landscape Architecture,108.0,76.0,32.0,26.0,5.0,1.0,10.0,0.0,0.42
+7919,2018,Fine And Applied Arts,Nondegree,26.0,13.0,13.0,11.0,0.0,1.0,0.0,0.0,1.0
+7825,2018,Fine And Applied Arts,Voice,25.0,17.0,8.0,14.0,2.0,3.0,5.0,0.0,0.47
+7824,2018,Fine And Applied Arts,Urban Studies & Planning,80.0,31.0,49.0,35.0,3.0,7.0,15.0,0.0,1.58
+7823,2018,Fine And Applied Arts,Urban Planning,53.0,27.0,26.0,17.0,2.0,4.0,2.0,0.0,0.96
+7822,2018,Fine And Applied Arts,Theatre,201.0,115.0,85.0,130.0,10.0,18.0,24.0,0.0,0.74
+7819,2018,Fine And Applied Arts,Photography,32.0,24.0,8.0,16.0,1.0,4.0,6.0,0.0,0.33
+7818,2018,Fine And Applied Arts,Painting,36.0,32.0,4.0,15.0,5.0,5.0,6.0,0.0,0.12
+7816,2018,Fine And Applied Arts,Nondegree,38.0,21.0,17.0,9.0,1.0,1.0,3.0,0.0,0.81
+7815,2018,Fine And Applied Arts,New Media,29.0,22.0,7.0,12.0,9.0,2.0,2.0,0.0,0.32
+7813,2018,Fine And Applied Arts,Music Education,152.0,80.0,72.0,110.0,15.0,6.0,18.0,0.0,0.9
+7811,2018,Fine And Applied Arts,Music,338.0,160.0,178.0,174.0,29.0,11.0,28.0,0.0,1.11
+7566,2017,Fine And Applied Arts,Nondegree,184.0,36.0,148.0,35.0,6.0,1.0,2.0,0.0,4.11
+7578,2017,Fine And Applied Arts,Art And Design,41.0,29.0,12.0,20.0,5.0,1.0,3.0,0.0,0.41
+7575,2017,Fine And Applied Arts,Art Education,41.0,38.0,2.0,24.0,5.0,2.0,6.0,0.0,0.05
+7574,2017,Fine And Applied Arts,Architecture,179.0,93.0,86.0,58.0,13.0,5.0,12.0,0.0,0.92
+7573,2017,Fine And Applied Arts,Architectural Studies,433.0,183.0,250.0,184.0,48.0,26.0,80.0,0.0,1.37
+7497,2017,Fine And Applied Arts,Nondegree,96.0,47.0,49.0,59.0,3.0,3.0,3.0,0.0,1.04
+7581,2017,Fine And Applied Arts,Graphic Design,167.0,126.0,41.0,83.0,26.0,9.0,20.0,0.0,0.33
+7503,2017,Fine And Applied Arts,Nondegree,46.0,22.0,24.0,30.0,4.0,0.0,5.0,0.0,1.09
+7517,2017,Fine And Applied Arts,Nondegree,114.0,47.0,67.0,1.0,0.0,0.0,0.0,0.0,1.43
+7580,2017,Fine And Applied Arts,Dance,71.0,62.0,9.0,42.0,2.0,15.0,5.0,0.0,0.15
+7583,2017,Fine And Applied Arts,Industrial Design,206.0,110.0,96.0,59.0,49.0,7.0,17.0,0.0,0.87
+7660,2017,Fine And Applied Arts,Nondegree,220.0,99.0,121.0,79.0,13.0,8.0,10.0,0.0,1.22
+7584,2017,Fine And Applied Arts,Instrumental Music,75.0,43.0,32.0,46.0,10.0,2.0,11.0,0.0,0.74
+7695,2017,Fine And Applied Arts,Nondegree,21.0,12.0,9.0,6.0,1.0,2.0,0.0,0.0,0.75
+7603,2017,Fine And Applied Arts,Nondegree,23.0,12.0,11.0,16.0,4.0,0.0,1.0,0.0,0.92
+7601,2017,Fine And Applied Arts,Voice,34.0,24.0,10.0,21.0,2.0,5.0,5.0,0.0,0.42
+7600,2017,Fine And Applied Arts,Urban Studies & Planning,75.0,31.0,44.0,32.0,5.0,3.0,15.0,0.0,1.42
+7599,2017,Fine And Applied Arts,Urban Planning,68.0,35.0,33.0,22.0,2.0,2.0,3.0,0.0,0.94
+7598,2017,Fine And Applied Arts,Theatre,208.0,126.0,82.0,137.0,6.0,25.0,18.0,1.0,0.65
+7595,2017,Fine And Applied Arts,Photography,30.0,23.0,7.0,16.0,2.0,4.0,3.0,0.0,0.3
+7594,2017,Fine And Applied Arts,Painting,31.0,24.0,7.0,12.0,2.0,5.0,2.0,0.0,0.29
+7592,2017,Fine And Applied Arts,Nondegree,40.0,18.0,22.0,14.0,1.0,1.0,2.0,0.0,1.22
+7591,2017,Fine And Applied Arts,New Media,20.0,13.0,7.0,9.0,3.0,2.0,2.0,0.0,0.54
+7589,2017,Fine And Applied Arts,Music Education,166.0,95.0,71.0,125.0,14.0,5.0,17.0,0.0,0.75
+7587,2017,Fine And Applied Arts,Music,350.0,153.0,197.0,179.0,28.0,11.0,22.0,0.0,1.29
+7586,2017,Fine And Applied Arts,Landscape Architecture,111.0,83.0,28.0,29.0,4.0,0.0,10.0,0.0,0.34
+7585,2017,Fine And Applied Arts,Jazz Performance,28.0,5.0,23.0,16.0,3.0,4.0,2.0,0.0,4.6
+7342,2016,Fine And Applied Arts,Nondegree,194.0,39.0,155.0,38.0,11.0,1.0,2.0,0.0,3.97
+7354,2016,Fine And Applied Arts,Art And Design,43.0,28.0,15.0,24.0,4.0,0.0,5.0,0.0,0.54
+7351,2016,Fine And Applied Arts,Art Education,39.0,35.0,4.0,23.0,3.0,1.0,7.0,0.0,0.11
+7350,2016,Fine And Applied Arts,Architecture,159.0,76.0,83.0,50.0,17.0,3.0,4.0,0.0,1.09
+7349,2016,Fine And Applied Arts,Architectural Studies,417.0,176.0,241.0,176.0,47.0,24.0,65.0,0.0,1.37
+7276,2016,Fine And Applied Arts,Nondegree,115.0,53.0,62.0,59.0,1.0,5.0,2.0,1.0,1.17
+7283,2016,Fine And Applied Arts,Nondegree,29.0,12.0,17.0,17.0,4.0,0.0,4.0,0.0,1.42
+7357,2016,Fine And Applied Arts,Graphic Design,159.0,115.0,44.0,83.0,27.0,6.0,17.0,0.0,0.38
+7296,2016,Fine And Applied Arts,Nondegree,98.0,44.0,54.0,1.0,0.0,0.0,0.0,0.0,1.23
+7356,2016,Fine And Applied Arts,Dance,73.0,64.0,9.0,44.0,1.0,13.0,6.0,0.0,0.14
+7359,2016,Fine And Applied Arts,Industrial Design,186.0,106.0,80.0,62.0,34.0,5.0,15.0,0.0,0.75
+7434,2016,Fine And Applied Arts,Nondegree,202.0,112.0,90.0,58.0,15.0,9.0,9.0,0.0,0.8
+7360,2016,Fine And Applied Arts,Instrumental Music,78.0,48.0,30.0,56.0,6.0,3.0,7.0,0.0,0.62
+7468,2016,Fine And Applied Arts,Nondegree,21.0,12.0,9.0,7.0,0.0,1.0,0.0,0.0,0.75
+7375,2016,Fine And Applied Arts,Urban Planning,101.0,55.0,46.0,34.0,8.0,5.0,8.0,0.0,0.84
+7379,2016,Fine And Applied Arts,Nondegree,38.0,19.0,19.0,33.0,1.0,1.0,0.0,0.0,1.0
+7376,2016,Fine And Applied Arts,Urban Studies & Planning,43.0,19.0,24.0,20.0,2.0,1.0,7.0,0.0,1.26
+7374,2016,Fine And Applied Arts,Theatre,181.0,102.0,79.0,124.0,5.0,20.0,14.0,1.0,0.77
+7371,2016,Fine And Applied Arts,Photography,21.0,18.0,3.0,11.0,0.0,3.0,4.0,0.0,0.17
+7370,2016,Fine And Applied Arts,Painting,30.0,24.0,6.0,13.0,2.0,5.0,2.0,0.0,0.25
+7368,2016,Fine And Applied Arts,Nondegree,32.0,16.0,16.0,6.0,2.0,1.0,1.0,0.0,1.0
+7365,2016,Fine And Applied Arts,Music Education,181.0,106.0,75.0,144.0,13.0,5.0,16.0,0.0,0.71
+7363,2016,Fine And Applied Arts,Music,348.0,155.0,193.0,167.0,21.0,9.0,20.0,0.0,1.25
+7362,2016,Fine And Applied Arts,Landscape Architecture,132.0,88.0,44.0,35.0,5.0,0.0,10.0,0.0,0.5
+7377,2016,Fine And Applied Arts,Voice,26.0,16.0,10.0,18.0,0.0,3.0,5.0,0.0,0.62
+7361,2016,Fine And Applied Arts,Jazz Performance,37.0,5.0,32.0,21.0,3.0,7.0,0.0,0.0,6.4
+7129,2015,Fine And Applied Arts,Art Education,42.0,33.0,9.0,24.0,4.0,0.0,7.0,0.0,0.27
+7128,2015,Fine And Applied Arts,Architecture,172.0,67.0,105.0,80.0,17.0,1.0,6.0,0.0,1.57
+7127,2015,Fine And Applied Arts,Architectural Studies,402.0,182.0,220.0,177.0,47.0,17.0,53.0,1.0,1.21
+7121,2015,Fine And Applied Arts,Nondegree,218.0,46.0,172.0,37.0,6.0,1.0,2.0,0.0,3.74
+7055,2015,Fine And Applied Arts,Nondegree,119.0,51.0,68.0,68.0,1.0,3.0,2.0,1.0,1.33
+7062,2015,Fine And Applied Arts,Nondegree,21.0,11.0,10.0,12.0,3.0,0.0,1.0,0.0,0.91
+7075,2015,Fine And Applied Arts,Nondegree,78.0,33.0,45.0,0.0,0.0,1.0,0.0,0.0,1.36
+7134,2015,Fine And Applied Arts,Dance,70.0,57.0,13.0,44.0,3.0,12.0,4.0,0.0,0.23
+7132,2015,Fine And Applied Arts,Art And Design,42.0,29.0,13.0,27.0,1.0,0.0,4.0,0.0,0.45
+7211,2015,Fine And Applied Arts,Nondegree,213.0,115.0,98.0,70.0,14.0,4.0,4.0,0.0,0.85
+7135,2015,Fine And Applied Arts,Graphic Design,94.0,75.0,19.0,60.0,12.0,2.0,7.0,0.0,0.25
+7249,2015,Fine And Applied Arts,Nondegree,22.0,13.0,9.0,4.0,0.0,0.0,1.0,0.0,0.69
+7148,2015,Fine And Applied Arts,Painting,20.0,16.0,4.0,9.0,0.0,4.0,0.0,0.0,0.25
+7156,2015,Fine And Applied Arts,Nondegree,46.0,21.0,25.0,36.0,2.0,2.0,0.0,0.0,1.19
+7154,2015,Fine And Applied Arts,Voice,28.0,22.0,6.0,20.0,0.0,2.0,4.0,0.0,0.27
+7153,2015,Fine And Applied Arts,Urban Planning,142.0,80.0,62.0,63.0,9.0,10.0,7.0,0.0,0.78
+7146,2015,Fine And Applied Arts,Nondegree,30.0,15.0,15.0,6.0,0.0,3.0,2.0,0.0,1.0
+7143,2015,Fine And Applied Arts,Music Education,180.0,106.0,74.0,139.0,9.0,6.0,18.0,0.0,0.7
+7141,2015,Fine And Applied Arts,Music,341.0,164.0,177.0,164.0,17.0,6.0,19.0,0.0,1.08
+7140,2015,Fine And Applied Arts,Landscape Architecture,127.0,86.0,41.0,40.0,4.0,1.0,8.0,0.0,0.48
+7139,2015,Fine And Applied Arts,Jazz Performance,31.0,1.0,30.0,20.0,1.0,6.0,0.0,0.0,30.0
+7138,2015,Fine And Applied Arts,Instrumental Music,76.0,43.0,33.0,44.0,8.0,4.0,8.0,0.0,0.77
+7137,2015,Fine And Applied Arts,Industrial Design,132.0,79.0,53.0,48.0,26.0,5.0,11.0,0.0,0.67
+7152,2015,Fine And Applied Arts,Theatre,160.0,88.0,72.0,108.0,2.0,16.0,18.0,1.0,0.82
+6909,2014,Fine And Applied Arts,Art And Design,37.0,26.0,11.0,24.0,0.0,0.0,3.0,0.0,0.42
+6906,2014,Fine And Applied Arts,Art Education,49.0,36.0,13.0,32.0,3.0,1.0,6.0,0.0,0.36
+6905,2014,Fine And Applied Arts,Architecture,158.0,61.0,97.0,82.0,12.0,2.0,11.0,0.0,1.59
+6904,2014,Fine And Applied Arts,Architectural Studies,436.0,196.0,240.0,193.0,49.0,16.0,46.0,0.0,1.22
+6897,2014,Fine And Applied Arts,Nondegree,228.0,52.0,176.0,44.0,3.0,3.0,4.0,1.0,3.38
+6834,2014,Fine And Applied Arts,Nondegree,136.0,60.0,76.0,81.0,0.0,1.0,3.0,1.0,1.27
+6912,2014,Fine And Applied Arts,Graphic Design,81.0,62.0,19.0,54.0,13.0,1.0,3.0,0.0,0.31
+6854,2014,Fine And Applied Arts,Nondegree,73.0,22.0,51.0,0.0,0.0,1.0,0.0,0.0,2.32
+6911,2014,Fine And Applied Arts,Dance,70.0,55.0,15.0,46.0,4.0,12.0,3.0,0.0,0.27
+6914,2014,Fine And Applied Arts,Industrial Design,113.0,59.0,54.0,45.0,24.0,5.0,6.0,0.0,0.92
+6990,2014,Fine And Applied Arts,Nondegree,211.0,102.0,109.0,70.0,15.0,1.0,9.0,0.0,1.07
+7027,2014,Fine And Applied Arts,Nondegree,20.0,10.0,10.0,6.0,0.0,1.0,1.0,0.0,1.0
+6931,2014,Fine And Applied Arts,Urban Planning,134.0,73.0,61.0,57.0,8.0,9.0,12.0,0.0,0.84
+6934,2014,Fine And Applied Arts,Nondegree,42.0,16.0,26.0,31.0,1.0,2.0,0.0,0.0,1.62
+6932,2014,Fine And Applied Arts,Voice,24.0,18.0,6.0,16.0,2.0,2.0,2.0,0.0,0.33
+6930,2014,Fine And Applied Arts,Theatre,167.0,86.0,81.0,125.0,2.0,13.0,16.0,1.0,0.94
+6926,2014,Fine And Applied Arts,Painting,21.0,17.0,4.0,13.0,3.0,2.0,0.0,0.0,0.24
+6924,2014,Fine And Applied Arts,Nondegree,24.0,15.0,9.0,3.0,0.0,1.0,0.0,0.0,0.6
+6920,2014,Fine And Applied Arts,Music Education,175.0,100.0,75.0,140.0,8.0,5.0,13.0,0.0,0.75
+6918,2014,Fine And Applied Arts,Music,342.0,175.0,167.0,150.0,18.0,8.0,17.0,1.0,0.95
+6917,2014,Fine And Applied Arts,Landscape Architecture,120.0,74.0,46.0,43.0,7.0,1.0,6.0,0.0,0.62
+6916,2014,Fine And Applied Arts,Jazz Performance,27.0,3.0,24.0,18.0,0.0,5.0,0.0,0.0,8.0
+6915,2014,Fine And Applied Arts,Instrumental Music,71.0,38.0,33.0,46.0,7.0,2.0,5.0,1.0,0.87
+6688,2013,Fine And Applied Arts,Art And Design,40.0,30.0,10.0,26.0,0.0,0.0,2.0,0.0,0.33
+6685,2013,Fine And Applied Arts,Art Education,63.0,48.0,15.0,42.0,4.0,2.0,6.0,0.0,0.31
+6684,2013,Fine And Applied Arts,Architecture,178.0,65.0,113.0,98.0,14.0,4.0,12.0,0.0,1.74
+6683,2013,Fine And Applied Arts,Architectural Studies,444.0,197.0,247.0,225.0,46.0,13.0,38.0,1.0,1.25
+6676,2013,Fine And Applied Arts,Nondegree,207.0,34.0,173.0,41.0,5.0,3.0,5.0,0.0,5.09
+6611,2013,Fine And Applied Arts,Nondegree,119.0,46.0,73.0,77.0,1.0,1.0,3.0,0.0,1.59
+6691,2013,Fine And Applied Arts,Graphic Design,77.0,52.0,25.0,51.0,15.0,2.0,5.0,0.0,0.48
+6632,2013,Fine And Applied Arts,Nondegree,72.0,29.0,43.0,0.0,0.0,0.0,0.0,0.0,1.48
+6690,2013,Fine And Applied Arts,Dance,66.0,54.0,12.0,44.0,3.0,11.0,5.0,0.0,0.22
+6693,2013,Fine And Applied Arts,Industrial Design,108.0,56.0,52.0,39.0,27.0,7.0,6.0,0.0,0.93
+6769,2013,Fine And Applied Arts,Nondegree,183.0,96.0,87.0,54.0,5.0,4.0,12.0,0.0,0.91
+6694,2013,Fine And Applied Arts,Instrumental Music,77.0,38.0,39.0,54.0,6.0,0.0,6.0,1.0,1.03
+6807,2013,Fine And Applied Arts,Nondegree,22.0,10.0,12.0,5.0,0.0,0.0,3.0,0.0,1.2
+6706,2013,Fine And Applied Arts,Photography,28.0,19.0,9.0,17.0,4.0,3.0,4.0,0.0,0.47
+6713,2013,Fine And Applied Arts,Nondegree,44.0,20.0,24.0,30.0,7.0,1.0,4.0,0.0,1.2
+6711,2013,Fine And Applied Arts,Voice,26.0,21.0,5.0,22.0,0.0,2.0,1.0,0.0,0.24
+6710,2013,Fine And Applied Arts,Urban Planning,126.0,63.0,63.0,59.0,8.0,6.0,13.0,0.0,1.0
+6709,2013,Fine And Applied Arts,Theatre,176.0,96.0,80.0,122.0,3.0,14.0,18.0,1.0,0.83
+6705,2013,Fine And Applied Arts,Painting,25.0,16.0,9.0,15.0,2.0,3.0,3.0,0.0,0.56
+6703,2013,Fine And Applied Arts,Nondegree,34.0,20.0,14.0,7.0,0.0,1.0,0.0,0.0,0.7
+6702,2013,Fine And Applied Arts,New Media,20.0,9.0,11.0,9.0,4.0,1.0,1.0,0.0,1.22
+6699,2013,Fine And Applied Arts,Music Education,180.0,100.0,80.0,145.0,12.0,5.0,8.0,0.0,0.8
+6697,2013,Fine And Applied Arts,Music,346.0,177.0,169.0,146.0,20.0,8.0,16.0,1.0,0.95
+6696,2013,Fine And Applied Arts,Landscape Architecture,97.0,58.0,39.0,46.0,4.0,2.0,4.0,0.0,0.67
+6695,2013,Fine And Applied Arts,Jazz Performance,22.0,3.0,19.0,18.0,0.0,3.0,0.0,0.0,6.33
+6467,2012,Fine And Applied Arts,Art Education,71.0,54.0,17.0,50.0,4.0,2.0,5.0,0.0,0.31
+6466,2012,Fine And Applied Arts,Architecture,196.0,80.0,116.0,110.0,9.0,5.0,17.0,0.0,1.45
+6465,2012,Fine And Applied Arts,Architectural Studies,482.0,208.0,274.0,275.0,42.0,13.0,46.0,2.0,1.32
+6458,2012,Fine And Applied Arts,Nondegree,228.0,43.0,184.0,53.0,8.0,1.0,5.0,0.0,4.28
+6391,2012,Fine And Applied Arts,Nondegree,124.0,50.0,74.0,77.0,2.0,1.0,2.0,1.0,1.48
+6413,2012,Fine And Applied Arts,Nondegree,83.0,30.0,53.0,0.0,0.0,0.0,0.0,0.0,1.77
+6470,2012,Fine And Applied Arts,Art And Design,39.0,26.0,13.0,28.0,0.0,0.0,1.0,0.0,0.5
+6472,2012,Fine And Applied Arts,Dance,54.0,47.0,7.0,36.0,0.0,13.0,3.0,0.0,0.15
+6473,2012,Fine And Applied Arts,Graphic Design,76.0,49.0,27.0,51.0,14.0,2.0,6.0,0.0,0.55
+6547,2012,Fine And Applied Arts,Nondegree,189.0,96.0,93.0,64.0,13.0,4.0,5.0,0.0,0.97
+6475,2012,Fine And Applied Arts,Industrial Design,110.0,55.0,55.0,37.0,30.0,6.0,5.0,0.0,1.0
+6494,2012,Fine And Applied Arts,Nondegree,39.0,17.0,22.0,27.0,6.0,2.0,3.0,0.0,1.29
+6493,2012,Fine And Applied Arts,Voice,34.0,28.0,6.0,27.0,1.0,3.0,1.0,0.0,0.21
+6492,2012,Fine And Applied Arts,Urban Planning,143.0,66.0,77.0,68.0,7.0,9.0,17.0,0.0,1.17
+6491,2012,Fine And Applied Arts,Theatre,195.0,105.0,90.0,143.0,4.0,10.0,19.0,1.0,0.86
+6488,2012,Fine And Applied Arts,Photography,32.0,20.0,12.0,19.0,3.0,3.0,5.0,0.0,0.6
+6487,2012,Fine And Applied Arts,Painting,38.0,26.0,12.0,22.0,4.0,5.0,3.0,0.0,0.46
+6485,2012,Fine And Applied Arts,Nondegree,22.0,16.0,6.0,4.0,0.0,1.0,0.0,0.0,0.38
+6481,2012,Fine And Applied Arts,Music Education,166.0,89.0,77.0,135.0,14.0,5.0,8.0,0.0,0.87
+6479,2012,Fine And Applied Arts,Music,329.0,170.0,158.0,152.0,15.0,6.0,11.0,1.0,0.93
+6478,2012,Fine And Applied Arts,Landscape Architecture,113.0,63.0,50.0,54.0,6.0,1.0,3.0,0.0,0.79
+6477,2012,Fine And Applied Arts,Jazz Performance,22.0,2.0,20.0,19.0,1.0,2.0,0.0,0.0,10.0
+6476,2012,Fine And Applied Arts,Instrumental Music,75.0,40.0,35.0,49.0,12.0,1.0,4.0,1.0,0.88
+6235,2011,Fine And Applied Arts,Nondegree,207.0,45.0,162.0,46.0,4.0,1.0,6.0,0.0,3.6
+6244,2011,Fine And Applied Arts,Art Education,82.0,64.0,17.0,59.0,3.0,2.0,6.0,0.0,0.27
+6243,2011,Fine And Applied Arts,Architecture,219.0,88.0,131.0,121.0,12.0,8.0,22.0,0.0,1.49
+6242,2011,Fine And Applied Arts,Architectural Studies,507.0,221.0,286.0,306.0,47.0,10.0,41.0,2.0,1.29
+6168,2011,Fine And Applied Arts,Nondegree,87.0,36.0,51.0,57.0,1.0,1.0,2.0,0.0,1.42
+6193,2011,Fine And Applied Arts,Nondegree,91.0,34.0,57.0,0.0,0.0,0.0,0.0,0.0,1.68
+6247,2011,Fine And Applied Arts,Art And Design,39.0,19.0,20.0,27.0,1.0,0.0,0.0,0.0,1.05
+6324,2011,Fine And Applied Arts,Nondegree,176.0,92.0,84.0,59.0,5.0,3.0,3.0,0.0,0.91
+6249,2011,Fine And Applied Arts,Dance,69.0,63.0,6.0,47.0,3.0,13.0,6.0,0.0,0.1
+6262,2011,Fine And Applied Arts,Nondegree,33.0,19.0,14.0,7.0,1.0,0.0,0.0,0.0,0.74
+6271,2011,Fine And Applied Arts,Nondegree,27.0,13.0,14.0,20.0,3.0,1.0,2.0,0.0,1.08
+6270,2011,Fine And Applied Arts,Voice,30.0,23.0,7.0,23.0,2.0,3.0,0.0,0.0,0.3
+6269,2011,Fine And Applied Arts,Urban Planning,155.0,65.0,90.0,82.0,9.0,11.0,21.0,0.0,1.38
+6268,2011,Fine And Applied Arts,Theatre,175.0,97.0,78.0,118.0,5.0,16.0,15.0,1.0,0.8
+6265,2011,Fine And Applied Arts,Photography,42.0,31.0,11.0,30.0,3.0,3.0,4.0,0.0,0.35
+6264,2011,Fine And Applied Arts,Painting,43.0,32.0,11.0,24.0,5.0,5.0,5.0,0.0,0.34
+6261,2011,Fine And Applied Arts,New Media,24.0,16.0,8.0,17.0,4.0,1.0,0.0,0.0,0.5
+6258,2011,Fine And Applied Arts,Music Education,189.0,99.0,90.0,162.0,13.0,4.0,7.0,0.0,0.91
+6256,2011,Fine And Applied Arts,Music,346.0,177.0,167.0,168.0,14.0,7.0,14.0,1.0,0.94
+6255,2011,Fine And Applied Arts,Landscape Architecture,118.0,65.0,53.0,65.0,9.0,2.0,6.0,0.0,0.82
+6254,2011,Fine And Applied Arts,Jazz Performance,27.0,4.0,23.0,23.0,1.0,2.0,1.0,0.0,5.75
+6253,2011,Fine And Applied Arts,Instrumental Music,89.0,49.0,40.0,58.0,15.0,2.0,5.0,0.0,0.82
+6252,2011,Fine And Applied Arts,Industrial Design,117.0,63.0,54.0,47.0,23.0,5.0,9.0,0.0,0.86
+6250,2011,Fine And Applied Arts,Graphic Design,70.0,43.0,27.0,48.0,13.0,2.0,5.0,0.0,0.63
+6024,2010,Fine And Applied Arts,Art Education,91.0,73.0,18.0,74.0,2.0,1.0,4.0,0.0,0.25
+6023,2010,Fine And Applied Arts,Architecture,190.0,88.0,102.0,117.0,13.0,7.0,15.0,0.0,1.16
+6022,2010,Fine And Applied Arts,Architectural Studies,505.0,214.0,291.0,332.0,45.0,9.0,41.0,1.0,1.36
+6015,2010,Fine And Applied Arts,Nondegree,201.0,32.0,169.0,52.0,3.0,2.0,3.0,0.0,5.28
+5949,2010,Fine And Applied Arts,Nondegree,75.0,39.0,36.0,47.0,0.0,1.0,2.0,0.0,0.92
+5973,2010,Fine And Applied Arts,Nondegree,61.0,22.0,39.0,0.0,0.0,0.0,0.0,0.0,1.77
+6027,2010,Fine And Applied Arts,Art And Design,38.0,18.0,20.0,22.0,1.0,0.0,1.0,0.0,1.11
+6029,2010,Fine And Applied Arts,Dance,79.0,71.0,8.0,55.0,3.0,15.0,6.0,0.0,0.11
+6103,2010,Fine And Applied Arts,Nondegree,164.0,82.0,82.0,61.0,6.0,2.0,6.0,1.0,1.0
+6030,2010,Fine And Applied Arts,Graphic Design,67.0,42.0,25.0,46.0,14.0,3.0,1.0,0.0,0.6
+6042,2010,Fine And Applied Arts,Nondegree,21.0,13.0,8.0,9.0,2.0,1.0,0.0,0.0,0.62
+6050,2010,Fine And Applied Arts,Voice,32.0,26.0,6.0,27.0,2.0,2.0,1.0,0.0,0.23
+6049,2010,Fine And Applied Arts,Urban Planning,149.0,64.0,85.0,82.0,11.0,17.0,16.0,0.0,1.33
+6048,2010,Fine And Applied Arts,Theatre,176.0,104.0,71.0,124.0,2.0,14.0,14.0,0.0,0.68
+6044,2010,Fine And Applied Arts,Painting,35.0,26.0,9.0,19.0,4.0,1.0,6.0,0.0,0.35
+6041,2010,Fine And Applied Arts,New Media,25.0,17.0,8.0,22.0,1.0,0.0,0.0,0.0,0.47
+6038,2010,Fine And Applied Arts,Music Education,210.0,106.0,104.0,179.0,13.0,4.0,8.0,0.0,0.98
+6036,2010,Fine And Applied Arts,Music,357.0,184.0,173.0,185.0,14.0,7.0,13.0,0.0,0.94
+6035,2010,Fine And Applied Arts,Landscape Architecture,127.0,63.0,64.0,84.0,7.0,2.0,7.0,0.0,1.02
+6034,2010,Fine And Applied Arts,Jazz Performance,33.0,6.0,27.0,28.0,1.0,3.0,1.0,0.0,4.5
+6033,2010,Fine And Applied Arts,Instrumental Music,82.0,48.0,34.0,54.0,12.0,1.0,4.0,0.0,0.71
+6032,2010,Fine And Applied Arts,Industrial Design,112.0,59.0,53.0,50.0,24.0,2.0,10.0,0.0,0.9
+6045,2010,Fine And Applied Arts,Photography,36.0,27.0,9.0,29.0,0.0,2.0,4.0,0.0,0.33
+5814,2009,Fine And Applied Arts,Art And Design,45.0,27.0,18.0,22.0,4.0,0.0,1.0,2.0,0.67
+5811,2009,Fine And Applied Arts,Art Education,89.0,70.0,19.0,72.0,6.0,1.0,5.0,1.0,0.27
+5810,2009,Fine And Applied Arts,Architecture,194.0,79.0,115.0,111.0,19.0,4.0,13.0,1.0,1.46
+5809,2009,Fine And Applied Arts,Architectural Studies,554.0,235.0,319.0,379.0,61.0,15.0,50.0,2.0,1.36
+5803,2009,Fine And Applied Arts,Nondegree,196.0,42.0,154.0,42.0,6.0,0.0,3.0,0.0,3.67
+5737,2009,Fine And Applied Arts,Nondegree,48.0,26.0,22.0,25.0,2.0,0.0,3.0,1.0,0.85
+5817,2009,Fine And Applied Arts,Graphic Design,64.0,41.0,23.0,42.0,15.0,1.0,1.0,0.0,0.56
+5762,2009,Fine And Applied Arts,Nondegree,42.0,14.0,28.0,3.0,2.0,1.0,0.0,0.0,2.0
+5816,2009,Fine And Applied Arts,Dance,82.0,72.0,10.0,59.0,3.0,11.0,6.0,0.0,0.14
+5819,2009,Fine And Applied Arts,Industrial Design,117.0,61.0,56.0,61.0,19.0,2.0,11.0,0.0,0.92
+5888,2009,Fine And Applied Arts,Nondegree,158.0,91.0,67.0,36.0,9.0,4.0,3.0,0.0,0.74
+5820,2009,Fine And Applied Arts,Instrumental Music,94.0,51.0,43.0,68.0,13.0,2.0,4.0,1.0,0.84
+5837,2009,Fine And Applied Arts,Voice,30.0,23.0,7.0,25.0,1.0,2.0,1.0,0.0,0.3
+5836,2009,Fine And Applied Arts,Urban Planning,159.0,61.0,98.0,85.0,7.0,20.0,17.0,1.0,1.61
+5835,2009,Fine And Applied Arts,Theatre,180.0,101.0,79.0,130.0,6.0,18.0,8.0,1.0,0.78
+5832,2009,Fine And Applied Arts,Photography,33.0,25.0,8.0,28.0,0.0,1.0,2.0,0.0,0.32
+5831,2009,Fine And Applied Arts,Painting,31.0,22.0,9.0,17.0,4.0,1.0,7.0,0.0,0.41
+5829,2009,Fine And Applied Arts,Nondegree,30.0,15.0,15.0,13.0,0.0,0.0,0.0,0.0,1.0
+5828,2009,Fine And Applied Arts,New Media,22.0,12.0,10.0,15.0,1.0,2.0,0.0,0.0,0.83
+5825,2009,Fine And Applied Arts,Music Education,243.0,125.0,118.0,209.0,13.0,3.0,7.0,0.0,0.94
+5823,2009,Fine And Applied Arts,Music,345.0,177.0,168.0,180.0,13.0,4.0,9.0,1.0,0.95
+5822,2009,Fine And Applied Arts,Landscape Architecture,139.0,63.0,76.0,90.0,5.0,4.0,9.0,0.0,1.21
+5821,2009,Fine And Applied Arts,Jazz Performance,41.0,5.0,36.0,30.0,2.0,5.0,2.0,1.0,7.2
+5599,2008,Fine And Applied Arts,Nondegree,135.0,25.0,110.0,16.0,3.0,0.0,0.0,0.0,4.4
+5609,2008,Fine And Applied Arts,Art And Design,42.0,25.0,17.0,22.0,3.0,0.0,2.0,1.0,0.68
+5606,2008,Fine And Applied Arts,Art Education,105.0,87.0,18.0,85.0,6.0,1.0,6.0,1.0,0.21
+5605,2008,Fine And Applied Arts,Architecture,198.0,74.0,124.0,116.0,18.0,4.0,12.0,1.0,1.68
+5604,2008,Fine And Applied Arts,Architectural Studies,581.0,257.0,324.0,403.0,71.0,18.0,41.0,3.0,1.26
+5540,2008,Fine And Applied Arts,Nondegree,30.0,15.0,15.0,19.0,0.0,1.0,2.0,0.0,1.0
+5611,2008,Fine And Applied Arts,Dance,82.0,70.0,12.0,59.0,4.0,8.0,6.0,0.0,0.17
+5561,2008,Fine And Applied Arts,Nondegree,37.0,13.0,24.0,2.0,0.0,0.0,0.0,0.0,1.85
+5615,2008,Fine And Applied Arts,Instrumental Music,102.0,55.0,47.0,68.0,18.0,1.0,5.0,1.0,0.85
+5612,2008,Fine And Applied Arts,Graphic Design,71.0,49.0,22.0,44.0,20.0,1.0,1.0,0.0,0.45
+5679,2008,Fine And Applied Arts,Nondegree,146.0,79.0,67.0,35.0,11.0,3.0,0.0,1.0,0.85
+5614,2008,Fine And Applied Arts,Industrial Design,107.0,50.0,57.0,63.0,20.0,2.0,6.0,0.0,1.14
+5630,2008,Fine And Applied Arts,Theatre,188.0,107.0,81.0,147.0,4.0,19.0,9.0,0.0,0.76
+5631,2008,Fine And Applied Arts,Urban Planning,150.0,63.0,87.0,93.0,4.0,20.0,15.0,1.0,1.38
+5627,2008,Fine And Applied Arts,Photography,29.0,16.0,13.0,25.0,1.0,0.0,2.0,0.0,0.81
+5626,2008,Fine And Applied Arts,Painting,35.0,24.0,11.0,20.0,4.0,1.0,8.0,0.0,0.46
+5624,2008,Fine And Applied Arts,Nondegree,22.0,9.0,13.0,5.0,1.0,0.0,0.0,0.0,1.44
+5620,2008,Fine And Applied Arts,Music Education,267.0,135.0,132.0,226.0,14.0,4.0,9.0,1.0,0.98
+5618,2008,Fine And Applied Arts,Music,348.0,186.0,162.0,181.0,17.0,3.0,12.0,1.0,0.87
+5617,2008,Fine And Applied Arts,Landscape Architecture,155.0,68.0,87.0,110.0,8.0,6.0,6.0,0.0,1.28
+5616,2008,Fine And Applied Arts,Jazz Performance,38.0,3.0,35.0,31.0,2.0,2.0,1.0,1.0,11.67
+5632,2008,Fine And Applied Arts,Voice,35.0,28.0,7.0,28.0,2.0,1.0,2.0,0.0,0.25
+5419,2007,Fine And Applied Arts,Instrumental Music,118.0,63.0,55.0,89.0,11.0,2.0,5.0,0.0,0.87
+5403,2007,Fine And Applied Arts,Nondegree,106.0,19.0,87.0,1.0,4.0,0.0,1.0,0.0,4.58
+5418,2007,Fine And Applied Arts,Industrial Design,102.0,46.0,56.0,66.0,17.0,3.0,6.0,0.0,1.22
+5416,2007,Fine And Applied Arts,Graphic Design,78.0,52.0,26.0,49.0,21.0,0.0,3.0,0.0,0.5
+5415,2007,Fine And Applied Arts,Dance,78.0,68.0,10.0,62.0,1.0,7.0,1.0,0.0,0.15
+5413,2007,Fine And Applied Arts,Art And Design,43.0,22.0,21.0,22.0,4.0,2.0,2.0,1.0,0.95
+5410,2007,Fine And Applied Arts,Art Education,108.0,93.0,15.0,87.0,6.0,0.0,4.0,1.0,0.16
+5409,2007,Fine And Applied Arts,Architecture,208.0,84.0,124.0,133.0,11.0,5.0,11.0,0.0,1.48
+5408,2007,Fine And Applied Arts,Architectural Studies,547.0,247.0,300.0,384.0,66.0,16.0,44.0,2.0,1.21
+5421,2007,Fine And Applied Arts,Landscape Architecture,147.0,58.0,89.0,112.0,6.0,7.0,6.0,0.0,1.53
+5368,2007,Fine And Applied Arts,Nondegree,26.0,8.0,18.0,0.0,0.0,0.0,0.0,0.0,2.25
+5420,2007,Fine And Applied Arts,Jazz Performance,21.0,1.0,20.0,18.0,2.0,0.0,0.0,0.0,20.0
+5422,2007,Fine And Applied Arts,Music,336.0,172.0,164.0,165.0,18.0,3.0,12.0,1.0,0.95
+5483,2007,Fine And Applied Arts,Nondegree,129.0,69.0,60.0,26.0,7.0,4.0,2.0,1.0,0.87
+5424,2007,Fine And Applied Arts,Music Education,250.0,126.0,124.0,210.0,20.0,4.0,8.0,0.0,0.98
+5435,2007,Fine And Applied Arts,Voice,25.0,20.0,5.0,20.0,0.0,2.0,1.0,0.0,0.25
+5434,2007,Fine And Applied Arts,Urban Planning,164.0,72.0,92.0,120.0,7.0,10.0,7.0,1.0,1.28
+5433,2007,Fine And Applied Arts,Theatre,182.0,101.0,81.0,146.0,3.0,12.0,10.0,0.0,0.8
+5430,2007,Fine And Applied Arts,Photography,35.0,20.0,15.0,30.0,2.0,0.0,3.0,0.0,0.75
+5429,2007,Fine And Applied Arts,Painting,41.0,28.0,13.0,31.0,1.0,1.0,5.0,0.0,0.46
+5427,2007,Fine And Applied Arts,Nondegree,23.0,11.0,12.0,4.0,2.0,1.0,0.0,0.0,1.09
+5221,2006,Fine And Applied Arts,Dance,69.0,62.0,7.0,59.0,1.0,1.0,3.0,0.0,0.11
+5223,2006,Fine And Applied Arts,Graphic Design,75.0,49.0,26.0,47.0,18.0,0.0,5.0,0.0,0.53
+5219,2006,Fine And Applied Arts,Art And Design,40.0,18.0,22.0,29.0,2.0,2.0,1.0,0.0,1.22
+5216,2006,Fine And Applied Arts,Art Education,108.0,90.0,18.0,88.0,8.0,1.0,1.0,1.0,0.2
+5215,2006,Fine And Applied Arts,Architecture,232.0,92.0,140.0,145.0,13.0,9.0,12.0,0.0,1.52
+5214,2006,Fine And Applied Arts,Architectural Studies,525.0,215.0,310.0,379.0,62.0,16.0,40.0,2.0,1.44
+5209,2006,Fine And Applied Arts,Nondegree,104.0,12.0,92.0,7.0,2.0,1.0,0.0,0.0,7.67
+5226,2006,Fine And Applied Arts,Instrumental Music,136.0,74.0,61.0,96.0,18.0,3.0,5.0,0.0,0.82
+5174,2006,Fine And Applied Arts,Nondegree,32.0,13.0,19.0,0.0,0.0,0.0,0.0,0.0,1.46
+5225,2006,Fine And Applied Arts,Industrial Design,100.0,46.0,54.0,72.0,15.0,3.0,5.0,0.0,1.17
+5227,2006,Fine And Applied Arts,Landscape Architecture,151.0,67.0,84.0,116.0,5.0,4.0,7.0,0.0,1.25
+5288,2006,Fine And Applied Arts,Nondegree,135.0,73.0,62.0,40.0,9.0,4.0,4.0,1.0,0.85
+5241,2006,Fine And Applied Arts,Voice,21.0,17.0,4.0,16.0,1.0,3.0,0.0,0.0,0.24
+5240,2006,Fine And Applied Arts,Urban Planning,202.0,85.0,117.0,151.0,11.0,9.0,6.0,0.0,1.38
+5239,2006,Fine And Applied Arts,Theatre,186.0,98.0,88.0,152.0,4.0,10.0,9.0,0.0,0.9
+5236,2006,Fine And Applied Arts,Photography,32.0,19.0,13.0,29.0,1.0,0.0,2.0,0.0,0.68
+5235,2006,Fine And Applied Arts,Painting,46.0,29.0,17.0,33.0,4.0,1.0,5.0,0.0,0.59
+5233,2006,Fine And Applied Arts,Nondegree,30.0,16.0,14.0,11.0,2.0,1.0,0.0,0.0,0.88
+5230,2006,Fine And Applied Arts,Music Education,253.0,134.0,119.0,215.0,13.0,2.0,12.0,0.0,0.89
+5228,2006,Fine And Applied Arts,Music,317.0,170.0,146.0,163.0,18.0,5.0,8.0,1.0,0.86
+5035,2005,Fine And Applied Arts,Graphic Design,75.0,54.0,21.0,45.0,17.0,2.0,5.0,0.0,0.39
+5033,2005,Fine And Applied Arts,Dance,66.0,58.0,8.0,53.0,0.0,3.0,2.0,0.0,0.14
+5030,2005,Fine And Applied Arts,Art And Design,48.0,23.0,25.0,35.0,4.0,2.0,0.0,1.0,1.09
+5028,2005,Fine And Applied Arts,Art Education,106.0,89.0,17.0,90.0,6.0,3.0,0.0,0.0,0.19
+5027,2005,Fine And Applied Arts,Architecture,203.0,88.0,114.0,128.0,17.0,8.0,14.0,1.0,1.3
+5026,2005,Fine And Applied Arts,Architectural Studies,534.0,226.0,308.0,400.0,49.0,15.0,33.0,0.0,1.36
+5021,2005,Fine And Applied Arts,Nondegree,83.0,18.0,65.0,9.0,2.0,1.0,0.0,0.0,3.61
+5037,2005,Fine And Applied Arts,Industrial Design,98.0,51.0,47.0,64.0,18.0,2.0,6.0,0.0,0.92
+4989,2005,Fine And Applied Arts,Nondegree,34.0,16.0,18.0,1.0,0.0,0.0,0.0,0.0,1.12
+5039,2005,Fine And Applied Arts,Landscape Architecture,158.0,65.0,93.0,123.0,6.0,2.0,7.0,0.0,1.43
+5038,2005,Fine And Applied Arts,Instrumental Music,122.0,70.0,52.0,90.0,10.0,3.0,3.0,0.0,0.74
+5100,2005,Fine And Applied Arts,Nondegree,130.0,60.0,68.0,44.0,5.0,1.0,2.0,0.0,1.13
+5040,2005,Fine And Applied Arts,Music,277.0,154.0,123.0,149.0,22.0,4.0,7.0,0.0,0.8
+5052,2005,Fine And Applied Arts,Urban Planning,191.0,93.0,98.0,138.0,11.0,12.0,7.0,0.0,1.05
+5051,2005,Fine And Applied Arts,Theatre,199.0,105.0,94.0,167.0,1.0,11.0,7.0,1.0,0.9
+5048,2005,Fine And Applied Arts,Photography,33.0,22.0,11.0,30.0,3.0,0.0,0.0,0.0,0.5
+5047,2005,Fine And Applied Arts,Painting,48.0,32.0,16.0,41.0,3.0,1.0,2.0,0.0,0.5
+5045,2005,Fine And Applied Arts,Nondegree,29.0,13.0,16.0,12.0,1.0,1.0,0.0,0.0,1.23
+5042,2005,Fine And Applied Arts,Music Education,227.0,126.0,101.0,193.0,16.0,3.0,6.0,2.0,0.8
+4837,2004,Fine And Applied Arts,Architecture,202.0,77.0,125.0,126.0,12.0,8.0,12.0,1.0,1.62
+4843,2004,Fine And Applied Arts,Dance,71.0,61.0,10.0,56.0,1.0,5.0,3.0,1.0,0.16
+4840,2004,Fine And Applied Arts,Art And Design,45.0,22.0,23.0,35.0,4.0,2.0,0.0,1.0,1.05
+4838,2004,Fine And Applied Arts,Art Education,106.0,88.0,18.0,87.0,8.0,3.0,1.0,0.0,0.2
+4836,2004,Fine And Applied Arts,Architectural Studies,547.0,238.0,308.0,406.0,51.0,24.0,37.0,0.0,1.29
+4831,2004,Fine And Applied Arts,Nondegree,78.0,16.0,62.0,10.0,4.0,0.0,0.0,0.0,3.88
+4782,2004,Fine And Applied Arts,Nondegree,20.0,14.0,6.0,2.0,0.0,0.0,0.0,0.0,0.43
+4801,2004,Fine And Applied Arts,Nondegree,33.0,12.0,21.0,2.0,0.0,1.0,0.0,0.0,1.75
+4845,2004,Fine And Applied Arts,Graphic Design,88.0,59.0,29.0,56.0,13.0,4.0,4.0,0.0,0.49
+4910,2004,Fine And Applied Arts,Music,20.0,6.0,14.0,17.0,1.0,1.0,0.0,0.0,2.33
+4847,2004,Fine And Applied Arts,Industrial Design,85.0,42.0,43.0,55.0,19.0,0.0,4.0,0.0,1.02
+4912,2004,Fine And Applied Arts,Nondegree,138.0,83.0,55.0,54.0,11.0,3.0,2.0,0.0,0.66
+4848,2004,Fine And Applied Arts,Instrumental Music,112.0,57.0,55.0,78.0,14.0,4.0,4.0,0.0,0.96
+4863,2004,Fine And Applied Arts,Voice,26.0,21.0,5.0,18.0,3.0,2.0,1.0,0.0,0.24
+4862,2004,Fine And Applied Arts,Urban Planning,174.0,85.0,89.0,124.0,9.0,13.0,4.0,1.0,1.05
+4861,2004,Fine And Applied Arts,Theatre,202.0,105.0,97.0,167.0,3.0,13.0,4.0,1.0,0.92
+4858,2004,Fine And Applied Arts,Photography,21.0,16.0,5.0,17.0,1.0,1.0,1.0,0.0,0.31
+4857,2004,Fine And Applied Arts,Painting,48.0,28.0,20.0,39.0,4.0,2.0,1.0,0.0,0.71
+4855,2004,Fine And Applied Arts,Nondegree,29.0,13.0,16.0,6.0,2.0,1.0,0.0,0.0,1.23
+4852,2004,Fine And Applied Arts,Music Education,208.0,126.0,82.0,184.0,9.0,3.0,5.0,1.0,0.65
+4850,2004,Fine And Applied Arts,Music,249.0,147.0,102.0,137.0,18.0,1.0,5.0,0.0,0.69
+4849,2004,Fine And Applied Arts,Landscape Architecture,166.0,84.0,82.0,132.0,3.0,4.0,5.0,0.0,0.98
+4642,2003,Fine And Applied Arts,Theatre,128.0,64.0,64.0,94.0,0.0,11.0,6.0,1.0,1.0
+4692,2003,Fine And Applied Arts,Music,148.0,88.0,60.0,91.0,13.0,3.0,3.0,1.0,0.68
+4686,2003,Fine And Applied Arts,Landscape Architecture,153.0,76.0,77.0,118.0,5.0,3.0,4.0,0.0,1.01
+4685,2003,Fine And Applied Arts,Industrial Design,75.0,44.0,31.0,48.0,16.0,1.0,5.0,0.0,0.7
+4683,2003,Fine And Applied Arts,Dance,64.0,56.0,8.0,46.0,1.0,5.0,4.0,1.0,0.14
+4681,2003,Fine And Applied Arts,Art And Design,297.0,199.0,98.0,230.0,21.0,7.0,16.0,0.0,0.49
+4679,2003,Fine And Applied Arts,Art Education,98.0,82.0,16.0,66.0,17.0,1.0,4.0,0.0,0.2
+4678,2003,Fine And Applied Arts,Architecture,227.0,80.0,147.0,144.0,11.0,7.0,7.0,0.0,1.84
+4677,2003,Fine And Applied Arts,Architectural Studies,529.0,229.0,300.0,406.0,37.0,24.0,36.0,2.0,1.31
+4693,2003,Fine And Applied Arts,Music Education,220.0,136.0,84.0,196.0,8.0,3.0,4.0,0.0,0.62
+4684,2003,Fine And Applied Arts,Graphic Design,81.0,59.0,22.0,52.0,12.0,4.0,4.0,0.0,0.37
+4697,2003,Fine And Applied Arts,Theatre,42.0,22.0,20.0,36.0,2.0,0.0,1.0,0.0,0.91
+4699,2003,Fine And Applied Arts,Urban Planning,172.0,73.0,99.0,125.0,5.0,11.0,6.0,1.0,1.36
+4456,2002,Fine And Applied Arts,Theatre,114.0,63.0,51.0,80.0,0.0,13.0,6.0,0.0,0.81
+4506,2002,Fine And Applied Arts,Music Education,248.0,153.0,95.0,206.0,14.0,6.0,6.0,0.0,0.62
+4505,2002,Fine And Applied Arts,Music,141.0,81.0,60.0,85.0,12.0,4.0,6.0,1.0,0.74
+4499,2002,Fine And Applied Arts,Landscape Architecture,154.0,69.0,85.0,111.0,6.0,5.0,2.0,0.0,1.23
+4498,2002,Fine And Applied Arts,Industrial Design,75.0,36.0,39.0,48.0,18.0,2.0,6.0,0.0,1.08
+4497,2002,Fine And Applied Arts,Graphic Design,90.0,59.0,31.0,67.0,12.0,2.0,2.0,0.0,0.53
+4496,2002,Fine And Applied Arts,Dance,68.0,61.0,7.0,48.0,1.0,6.0,5.0,1.0,0.11
+4494,2002,Fine And Applied Arts,Art And Design,297.0,195.0,102.0,207.0,37.0,11.0,20.0,0.0,0.52
+4492,2002,Fine And Applied Arts,Art Education,98.0,84.0,14.0,69.0,11.0,2.0,3.0,0.0,0.17
+4491,2002,Fine And Applied Arts,Architecture,212.0,77.0,135.0,135.0,10.0,3.0,4.0,0.0,1.75
+4490,2002,Fine And Applied Arts,Architectural Studies,513.0,208.0,305.0,387.0,35.0,27.0,37.0,3.0,1.47
+4510,2002,Fine And Applied Arts,Theatre,46.0,25.0,21.0,44.0,1.0,0.0,0.0,0.0,0.84
+4512,2002,Fine And Applied Arts,Urban Planning,162.0,64.0,98.0,108.0,7.0,13.0,5.0,1.0,1.53
+4269,2001,Fine And Applied Arts,Theatre,97.0,50.0,47.0,78.0,0.0,9.0,3.0,0.0,0.94
+4308,2001,Fine And Applied Arts,Graphic Design,92.0,60.0,32.0,68.0,17.0,1.0,1.0,0.0,0.53
+4317,2001,Fine And Applied Arts,Music Education,235.0,142.0,93.0,210.0,10.0,2.0,5.0,0.0,0.65
+4316,2001,Fine And Applied Arts,Music,137.0,73.0,64.0,84.0,3.0,3.0,6.0,0.0,0.88
+4309,2001,Fine And Applied Arts,Industrial Design,83.0,37.0,46.0,56.0,17.0,2.0,5.0,0.0,1.24
+4307,2001,Fine And Applied Arts,Dance,71.0,64.0,7.0,49.0,3.0,5.0,4.0,1.0,0.11
+4305,2001,Fine And Applied Arts,Art And Design,274.0,181.0,93.0,195.0,35.0,7.0,13.0,0.0,0.51
+4303,2001,Fine And Applied Arts,Art Education,100.0,84.0,16.0,68.0,7.0,3.0,5.0,0.0,0.19
+4302,2001,Fine And Applied Arts,Architecture,165.0,62.0,103.0,98.0,11.0,1.0,3.0,0.0,1.66
+4310,2001,Fine And Applied Arts,Landscape Architecture,149.0,69.0,80.0,109.0,6.0,3.0,1.0,0.0,1.16
+4321,2001,Fine And Applied Arts,Theatre,43.0,22.0,21.0,39.0,1.0,0.0,1.0,0.0,0.95
+4301,2001,Fine And Applied Arts,Architectural Studies,512.0,214.0,298.0,388.0,42.0,20.0,41.0,2.0,1.39
+4323,2001,Fine And Applied Arts,Urban Planning,148.0,69.0,79.0,106.0,6.0,7.0,3.0,0.0,1.14
+4079,2000,Fine And Applied Arts,Theatre,103.0,52.0,51.0,82.0,0.0,11.0,3.0,0.0,0.98
+4113,2000,Fine And Applied Arts,Architectural Studies,512.0,212.0,300.0,389.0,42.0,26.0,33.0,1.0,1.42
+4121,2000,Fine And Applied Arts,Industrial Design,79.0,32.0,47.0,54.0,18.0,1.0,4.0,0.0,1.47
+4129,2000,Fine And Applied Arts,Music Education,272.0,162.0,110.0,241.0,13.0,3.0,5.0,0.0,0.68
+4128,2000,Fine And Applied Arts,Music,159.0,83.0,76.0,102.0,1.0,2.0,6.0,0.0,0.92
+4122,2000,Fine And Applied Arts,Landscape Architecture,146.0,59.0,87.0,108.0,6.0,4.0,2.0,0.0,1.47
+4120,2000,Fine And Applied Arts,Graphic Design,100.0,63.0,37.0,75.0,16.0,1.0,2.0,0.0,0.59
+4119,2000,Fine And Applied Arts,Dance,76.0,70.0,6.0,55.0,2.0,6.0,4.0,0.0,0.09
+4117,2000,Fine And Applied Arts,Art And Design,285.0,160.0,125.0,222.0,30.0,4.0,9.0,1.0,0.78
+4115,2000,Fine And Applied Arts,Art Education,104.0,81.0,23.0,78.0,6.0,2.0,6.0,0.0,0.28
+4114,2000,Fine And Applied Arts,Architecture,149.0,55.0,94.0,93.0,9.0,1.0,6.0,0.0,1.71
+4133,2000,Fine And Applied Arts,Theatre,49.0,27.0,22.0,44.0,0.0,1.0,1.0,0.0,0.81
+4135,2000,Fine And Applied Arts,Urban Planning,147.0,63.0,84.0,103.0,5.0,10.0,6.0,0.0,1.33
+3882,1999,Fine And Applied Arts,Theatre,108.0,54.0,54.0,87.0,1.0,9.0,2.0,0.0,1.0
+3936,1999,Fine And Applied Arts,Music Education,293.0,182.0,111.0,251.0,14.0,6.0,8.0,0.0,0.61
+3921,1999,Fine And Applied Arts,Architectural Studies,535.0,207.0,328.0,418.0,43.0,24.0,30.0,3.0,1.58
+3922,1999,Fine And Applied Arts,Architecture,143.0,52.0,91.0,98.0,9.0,2.0,6.0,0.0,1.75
+3923,1999,Fine And Applied Arts,Art Education,125.0,94.0,31.0,93.0,9.0,2.0,11.0,0.0,0.33
+3925,1999,Fine And Applied Arts,Art And Design,317.0,167.0,150.0,244.0,36.0,5.0,13.0,1.0,0.9
+3927,1999,Fine And Applied Arts,Dance,72.0,64.0,8.0,54.0,1.0,7.0,4.0,0.0,0.12
+3928,1999,Fine And Applied Arts,Graphic Design,109.0,68.0,41.0,77.0,19.0,1.0,3.0,0.0,0.6
+3929,1999,Fine And Applied Arts,Industrial Design,83.0,31.0,52.0,58.0,16.0,0.0,6.0,1.0,1.68
+3930,1999,Fine And Applied Arts,Landscape Architecture,137.0,59.0,78.0,104.0,9.0,4.0,2.0,0.0,1.32
+3935,1999,Fine And Applied Arts,Music,146.0,86.0,60.0,89.0,6.0,4.0,3.0,0.0,0.7
+3940,1999,Fine And Applied Arts,Theatre,45.0,27.0,18.0,39.0,1.0,0.0,1.0,0.0,0.67
+3942,1999,Fine And Applied Arts,Urban Planning,168.0,72.0,96.0,115.0,13.0,14.0,5.0,1.0,1.33
+3679,1998,Fine And Applied Arts,Theatre,140.0,76.0,64.0,110.0,4.0,10.0,2.0,1.0,0.84
+3734,1998,Fine And Applied Arts,Music Education,294.0,175.0,119.0,258.0,12.0,2.0,12.0,0.0,0.68
+3727,1998,Fine And Applied Arts,Landscape Architecture,141.0,55.0,86.0,109.0,11.0,4.0,6.0,0.0,1.56
+3726,1998,Fine And Applied Arts,Industrial Design,77.0,25.0,52.0,55.0,14.0,0.0,5.0,1.0,2.08
+3724,1998,Fine And Applied Arts,Dance,66.0,56.0,10.0,51.0,3.0,5.0,2.0,0.0,0.18
+3722,1998,Fine And Applied Arts,Art And Design,336.0,178.0,158.0,266.0,34.0,4.0,11.0,2.0,0.89
+3720,1998,Fine And Applied Arts,Art Education,101.0,76.0,25.0,70.0,11.0,4.0,6.0,0.0,0.33
+3719,1998,Fine And Applied Arts,Architecture,153.0,53.0,100.0,121.0,7.0,0.0,5.0,0.0,1.89
+3718,1998,Fine And Applied Arts,Architectural Studies,532.0,208.0,324.0,415.0,45.0,24.0,32.0,2.0,1.56
+3733,1998,Fine And Applied Arts,Music,142.0,76.0,66.0,86.0,8.0,3.0,2.0,0.0,0.87
+3725,1998,Fine And Applied Arts,Graphic Design,112.0,67.0,45.0,79.0,21.0,1.0,4.0,1.0,0.67
+3738,1998,Fine And Applied Arts,Theatre,42.0,23.0,19.0,38.0,0.0,0.0,1.0,0.0,0.83
+3740,1998,Fine And Applied Arts,Urban Planning,151.0,57.0,94.0,108.0,12.0,9.0,2.0,0.0,1.65
+3467,1997,Fine And Applied Arts,Theatre,148.0,85.0,63.0,116.0,6.0,10.0,3.0,1.0,0.74
+3519,1997,Fine And Applied Arts,Landscape Architecture,135.0,52.0,83.0,110.0,7.0,1.0,6.0,0.0,1.6
+3518,1997,Fine And Applied Arts,Industrial Design,82.0,25.0,57.0,53.0,17.0,1.0,7.0,0.0,2.28
+3517,1997,Fine And Applied Arts,Graphic Design,127.0,80.0,47.0,91.0,24.0,1.0,3.0,1.0,0.59
+3516,1997,Fine And Applied Arts,Dance,68.0,61.0,7.0,52.0,3.0,4.0,2.0,0.0,0.11
+3514,1997,Fine And Applied Arts,Art And Design,334.0,166.0,168.0,267.0,30.0,6.0,12.0,2.0,1.01
+3512,1997,Fine And Applied Arts,Art Education,110.0,87.0,23.0,75.0,15.0,3.0,5.0,0.0,0.26
+3511,1997,Fine And Applied Arts,Architecture,187.0,69.0,118.0,139.0,14.0,1.0,3.0,0.0,1.71
+3510,1997,Fine And Applied Arts,Architectural Studies,515.0,196.0,319.0,415.0,39.0,24.0,27.0,1.0,1.63
+3525,1997,Fine And Applied Arts,Music,139.0,83.0,56.0,80.0,9.0,4.0,3.0,0.0,0.67
+3526,1997,Fine And Applied Arts,Music Education,340.0,199.0,141.0,295.0,10.0,7.0,13.0,1.0,0.71
+3532,1997,Fine And Applied Arts,Urban Planning,148.0,67.0,81.0,106.0,11.0,13.0,3.0,0.0,1.21
+3530,1997,Fine And Applied Arts,Theatre,37.0,21.0,16.0,34.0,1.0,0.0,0.0,0.0,0.76
+3252,1996,Fine And Applied Arts,Theatre,133.0,73.0,60.0,100.0,6.0,13.0,4.0,2.0,0.82
+3304,1996,Fine And Applied Arts,Dance,60.0,55.0,5.0,49.0,2.0,4.0,0.0,0.0,0.09
+3313,1996,Fine And Applied Arts,Music,144.0,84.0,60.0,91.0,9.0,3.0,3.0,0.0,0.71
+3307,1996,Fine And Applied Arts,Landscape Architecture,136.0,52.0,84.0,109.0,6.0,1.0,5.0,0.0,1.62
+3305,1996,Fine And Applied Arts,Graphic Design,114.0,74.0,40.0,84.0,20.0,1.0,2.0,1.0,0.54
+3318,1996,Fine And Applied Arts,Theatre,29.0,13.0,16.0,26.0,1.0,1.0,0.0,0.0,1.23
+3302,1996,Fine And Applied Arts,Art And Design,358.0,179.0,179.0,274.0,29.0,14.0,24.0,2.0,1.0
+3300,1996,Fine And Applied Arts,Art Education,122.0,90.0,32.0,87.0,16.0,3.0,3.0,0.0,0.36
+3299,1996,Fine And Applied Arts,Architecture,207.0,80.0,127.0,156.0,14.0,2.0,5.0,0.0,1.59
+3298,1996,Fine And Applied Arts,Architectural Studies,524.0,179.0,345.0,409.0,41.0,20.0,43.0,2.0,1.93
+3314,1996,Fine And Applied Arts,Music Education,324.0,188.0,136.0,284.0,12.0,6.0,14.0,0.0,0.72
+3306,1996,Fine And Applied Arts,Industrial Design,82.0,20.0,62.0,50.0,18.0,3.0,6.0,0.0,3.1
+3320,1996,Fine And Applied Arts,Urban Planning,140.0,62.0,78.0,109.0,8.0,7.0,2.0,0.0,1.26
+3053,1995,Fine And Applied Arts,Theatre,128.0,79.0,49.0,99.0,5.0,12.0,4.0,1.0,0.62
+3099,1995,Fine And Applied Arts,Architectural Studies,509.0,185.0,324.0,397.0,39.0,20.0,38.0,1.0,1.75
+3100,1995,Fine And Applied Arts,Architecture,187.0,62.0,125.0,146.0,9.0,4.0,9.0,0.0,2.02
+3121,1995,Fine And Applied Arts,Urban Planning,144.0,62.0,82.0,110.0,9.0,8.0,5.0,0.0,1.32
+3119,1995,Fine And Applied Arts,Theatre,27.0,11.0,16.0,20.0,2.0,1.0,0.0,2.0,1.45
+3115,1995,Fine And Applied Arts,Music Education,290.0,167.0,123.0,247.0,10.0,9.0,12.0,0.0,0.74
+3114,1995,Fine And Applied Arts,Music,148.0,89.0,59.0,94.0,10.0,3.0,2.0,0.0,0.66
+3108,1995,Fine And Applied Arts,Landscape Architecture,159.0,68.0,91.0,124.0,7.0,1.0,7.0,0.0,1.34
+3107,1995,Fine And Applied Arts,Industrial Design,77.0,20.0,57.0,46.0,19.0,3.0,5.0,0.0,2.85
+3106,1995,Fine And Applied Arts,Graphic Design,109.0,70.0,39.0,82.0,19.0,0.0,4.0,0.0,0.56
+3105,1995,Fine And Applied Arts,Dance,55.0,50.0,5.0,45.0,1.0,2.0,2.0,0.0,0.1
+3103,1995,Fine And Applied Arts,Art And Design,340.0,180.0,160.0,247.0,40.0,14.0,20.0,3.0,0.89
+3101,1995,Fine And Applied Arts,Art Education,126.0,97.0,29.0,91.0,15.0,6.0,3.0,0.0,0.3
+2856,1994,Fine And Applied Arts,Theatre,137.0,83.0,54.0,112.0,6.0,8.0,4.0,1.0,0.65
+2901,1994,Fine And Applied Arts,Architectural Studies,492.0,166.0,326.0,393.0,40.0,12.0,39.0,1.0,1.96
+2917,1994,Fine And Applied Arts,Music Education,263.0,154.0,109.0,226.0,11.0,7.0,5.0,0.0,0.71
+2916,1994,Fine And Applied Arts,Music,147.0,80.0,67.0,99.0,5.0,3.0,3.0,0.0,0.84
+2910,1994,Fine And Applied Arts,Landscape Architecture,142.0,64.0,78.0,111.0,1.0,3.0,6.0,0.0,1.22
+2909,1994,Fine And Applied Arts,Industrial Design,66.0,22.0,44.0,46.0,13.0,2.0,3.0,0.0,2.0
+2908,1994,Fine And Applied Arts,Graphic Design,120.0,64.0,56.0,85.0,26.0,3.0,5.0,0.0,0.88
+2907,1994,Fine And Applied Arts,Dance,55.0,48.0,7.0,43.0,1.0,3.0,1.0,0.0,0.15
+2905,1994,Fine And Applied Arts,Art And Design,393.0,211.0,182.0,281.0,59.0,10.0,22.0,1.0,0.86
+2903,1994,Fine And Applied Arts,Art Education,94.0,69.0,25.0,70.0,3.0,6.0,2.0,0.0,0.36
+2920,1994,Fine And Applied Arts,Theatre,39.0,15.0,24.0,33.0,1.0,2.0,0.0,2.0,1.6
+2902,1994,Fine And Applied Arts,Architecture,177.0,56.0,121.0,138.0,12.0,2.0,6.0,0.0,2.16
+2922,1994,Fine And Applied Arts,Urban Planning,150.0,61.0,89.0,112.0,5.0,7.0,10.0,0.0,1.46
+2663,1993,Fine And Applied Arts,Theatre,136.0,83.0,53.0,116.0,2.0,6.0,2.0,0.0,0.64
+2702,1993,Fine And Applied Arts,Architectural Studies,488.0,162.0,326.0,382.0,47.0,12.0,35.0,1.0,2.01
+2703,1993,Fine And Applied Arts,Architecture,194.0,56.0,138.0,151.0,15.0,3.0,2.0,0.0,2.46
+2704,1993,Fine And Applied Arts,Art Education,101.0,70.0,31.0,74.0,5.0,8.0,2.0,0.0,0.44
+2722,1993,Fine And Applied Arts,Theatre,33.0,12.0,21.0,24.0,2.0,2.0,1.0,1.0,1.75
+2718,1993,Fine And Applied Arts,Music Education,266.0,146.0,120.0,226.0,10.0,9.0,5.0,0.0,0.82
+2717,1993,Fine And Applied Arts,Music,137.0,78.0,59.0,87.0,4.0,2.0,3.0,0.0,0.76
+2711,1993,Fine And Applied Arts,Landscape Architecture,137.0,63.0,74.0,109.0,4.0,2.0,4.0,0.0,1.17
+2710,1993,Fine And Applied Arts,Industrial Design,68.0,25.0,43.0,51.0,11.0,3.0,1.0,0.0,1.72
+2709,1993,Fine And Applied Arts,Graphic Design,115.0,65.0,50.0,80.0,22.0,3.0,6.0,0.0,0.77
+2708,1993,Fine And Applied Arts,Dance,52.0,45.0,7.0,40.0,1.0,2.0,1.0,0.0,0.16
+2706,1993,Fine And Applied Arts,Art And Design,401.0,208.0,193.0,290.0,49.0,12.0,25.0,4.0,0.93
+2724,1993,Fine And Applied Arts,Urban Planning,171.0,67.0,104.0,135.0,5.0,8.0,9.0,0.0,1.55
+2468,1992,Fine And Applied Arts,Theatre,126.0,70.0,56.0,111.0,1.0,8.0,1.0,1.0,0.8
+2507,1992,Fine And Applied Arts,Architectural Studies,505.0,170.0,335.0,392.0,53.0,12.0,36.0,2.0,1.97
+2515,1992,Fine And Applied Arts,Industrial Design,74.0,28.0,46.0,59.0,7.0,2.0,3.0,0.0,1.64
+2523,1992,Fine And Applied Arts,Music Education,233.0,126.0,107.0,198.0,11.0,8.0,2.0,1.0,0.85
+2522,1992,Fine And Applied Arts,Music,142.0,80.0,62.0,89.0,3.0,8.0,3.0,0.0,0.78
+2516,1992,Fine And Applied Arts,Landscape Architecture,136.0,56.0,80.0,107.0,4.0,4.0,4.0,0.0,1.43
+2514,1992,Fine And Applied Arts,Graphic Design,120.0,66.0,54.0,89.0,20.0,3.0,4.0,0.0,0.82
+2513,1992,Fine And Applied Arts,Dance,43.0,38.0,5.0,31.0,1.0,4.0,0.0,0.0,0.13
+2511,1992,Fine And Applied Arts,Art And Design,369.0,189.0,180.0,266.0,48.0,13.0,22.0,3.0,0.95
+2509,1992,Fine And Applied Arts,Art Education,79.0,62.0,17.0,49.0,8.0,7.0,3.0,0.0,0.27
+2527,1992,Fine And Applied Arts,Theatre,30.0,13.0,17.0,27.0,1.0,1.0,0.0,0.0,1.31
+2529,1992,Fine And Applied Arts,Urban Planning,177.0,72.0,105.0,142.0,5.0,11.0,8.0,0.0,1.46
+2508,1992,Fine And Applied Arts,Architecture,205.0,61.0,144.0,161.0,14.0,4.0,4.0,0.0,2.36
+2273,1991,Fine And Applied Arts,Theatre,117.0,64.0,53.0,103.0,1.0,6.0,0.0,0.0,0.83
+2319,1991,Fine And Applied Arts,Dance,37.0,33.0,4.0,26.0,0.0,4.0,1.0,0.0,0.12
+2328,1991,Fine And Applied Arts,Music,144.0,76.0,68.0,97.0,5.0,6.0,2.0,0.0,0.89
+2322,1991,Fine And Applied Arts,Landscape Architecture,149.0,52.0,97.0,125.0,7.0,3.0,6.0,0.0,1.87
+2320,1991,Fine And Applied Arts,Graphic Design,120.0,63.0,57.0,97.0,12.0,3.0,4.0,0.0,0.9
+2317,1991,Fine And Applied Arts,Art And Design,363.0,199.0,164.0,264.0,50.0,13.0,16.0,3.0,0.82
+2315,1991,Fine And Applied Arts,Art Education,87.0,63.0,24.0,60.0,8.0,5.0,3.0,0.0,0.38
+2314,1991,Fine And Applied Arts,Architecture,241.0,70.0,171.0,191.0,16.0,6.0,3.0,0.0,2.44
+2313,1991,Fine And Applied Arts,Architectural Studies,564.0,184.0,380.0,451.0,56.0,18.0,28.0,0.0,2.07
+2329,1991,Fine And Applied Arts,Music Education,234.0,135.0,99.0,200.0,11.0,8.0,6.0,0.0,0.73
+2321,1991,Fine And Applied Arts,Industrial Design,76.0,25.0,51.0,65.0,6.0,0.0,2.0,0.0,2.04
+2332,1991,Fine And Applied Arts,Theatre,24.0,9.0,15.0,22.0,1.0,0.0,0.0,0.0,1.67
+2334,1991,Fine And Applied Arts,Urban Planning,168.0,61.0,107.0,135.0,8.0,10.0,7.0,0.0,1.75
+2075,1990,Fine And Applied Arts,Theatre,102.0,48.0,54.0,86.0,1.0,3.0,1.0,0.0,1.12
+2133,1990,Fine And Applied Arts,Theatre,30.0,14.0,16.0,28.0,0.0,0.0,0.0,1.0,1.14
+2128,1990,Fine And Applied Arts,Music,144.0,72.0,72.0,109.0,7.0,4.0,3.0,0.0,1.0
+2122,1990,Fine And Applied Arts,Landscape Architecture,140.0,51.0,89.0,118.0,2.0,3.0,3.0,1.0,1.75
+2120,1990,Fine And Applied Arts,Graphic Design,124.0,71.0,53.0,105.0,14.0,2.0,2.0,0.0,0.75
+2119,1990,Fine And Applied Arts,Dance,42.0,34.0,8.0,33.0,1.0,2.0,1.0,0.0,0.24
+2117,1990,Fine And Applied Arts,Art And Design,332.0,171.0,161.0,253.0,41.0,10.0,11.0,4.0,0.94
+2115,1990,Fine And Applied Arts,Art Education,68.0,44.0,24.0,45.0,3.0,6.0,4.0,0.0,0.55
+2114,1990,Fine And Applied Arts,Architecture,199.0,62.0,137.0,168.0,9.0,8.0,2.0,1.0,2.21
+2113,1990,Fine And Applied Arts,Architectural Studies,585.0,182.0,403.0,477.0,48.0,22.0,22.0,1.0,2.21
+2129,1990,Fine And Applied Arts,Music Education,231.0,139.0,92.0,203.0,11.0,5.0,5.0,1.0,0.66
+2121,1990,Fine And Applied Arts,Industrial Design,80.0,23.0,57.0,69.0,6.0,0.0,3.0,0.0,2.48
+2135,1990,Fine And Applied Arts,Urban Planning,156.0,52.0,104.0,134.0,7.0,7.0,0.0,0.0,2.0
+1872,1989,Fine And Applied Arts,Theatre,111.0,56.0,55.0,94.0,1.0,3.0,4.0,0.0,0.98
+1919,1989,Fine And Applied Arts,Landscape Architecture,133.0,50.0,83.0,118.0,2.0,0.0,2.0,1.0,1.66
+1918,1989,Fine And Applied Arts,Industrial Design,75.0,23.0,52.0,65.0,4.0,0.0,3.0,0.0,2.26
+1917,1989,Fine And Applied Arts,Graphic Design,131.0,74.0,57.0,113.0,13.0,2.0,2.0,0.0,0.77
+1916,1989,Fine And Applied Arts,Dance,41.0,32.0,9.0,33.0,1.0,2.0,2.0,0.0,0.28
+1914,1989,Fine And Applied Arts,Art And Design,348.0,178.0,170.0,280.0,26.0,11.0,21.0,2.0,0.96
+1912,1989,Fine And Applied Arts,Art Education,77.0,60.0,17.0,56.0,2.0,3.0,3.0,0.0,0.28
+1911,1989,Fine And Applied Arts,Architecture,215.0,50.0,165.0,175.0,10.0,6.0,2.0,1.0,3.3
+1910,1989,Fine And Applied Arts,Architectural Studies,585.0,179.0,406.0,484.0,51.0,22.0,16.0,1.0,2.27
+1925,1989,Fine And Applied Arts,Music,136.0,70.0,66.0,101.0,3.0,3.0,3.0,0.0,0.94
+1932,1989,Fine And Applied Arts,Urban Planning,143.0,61.0,82.0,119.0,3.0,11.0,0.0,0.0,1.34
+1930,1989,Fine And Applied Arts,Theatre,31.0,18.0,13.0,26.0,0.0,2.0,0.0,1.0,0.72
+1926,1989,Fine And Applied Arts,Music Education,252.0,148.0,104.0,224.0,10.0,2.0,5.0,1.0,0.7
+1670,1988,Fine And Applied Arts,Theatre,119.0,59.0,60.0,107.0,1.0,2.0,2.0,0.0,1.02
+1724,1988,Fine And Applied Arts,Music Education,273.0,162.0,111.0,245.0,10.0,5.0,5.0,1.0,0.69
+1717,1988,Fine And Applied Arts,Landscape Architecture,133.0,46.0,87.0,117.0,3.0,1.0,3.0,1.0,1.89
+1716,1988,Fine And Applied Arts,Industrial Design,88.0,28.0,60.0,74.0,4.0,2.0,3.0,0.0,2.14
+1715,1988,Fine And Applied Arts,Graphic Design,132.0,76.0,56.0,116.0,12.0,1.0,2.0,1.0,0.74
+1712,1988,Fine And Applied Arts,Art And Design,365.0,192.0,173.0,303.0,21.0,10.0,16.0,4.0,0.9
+1710,1988,Fine And Applied Arts,Art Education,74.0,59.0,15.0,57.0,3.0,4.0,1.0,0.0,0.25
+1709,1988,Fine And Applied Arts,Architecture,235.0,49.0,186.0,183.0,10.0,7.0,3.0,0.0,3.8
+1708,1988,Fine And Applied Arts,Architectural Studies,587.0,172.0,415.0,491.0,44.0,25.0,16.0,2.0,2.41
+1723,1988,Fine And Applied Arts,Music,129.0,76.0,53.0,95.0,6.0,3.0,2.0,0.0,0.7
+1714,1988,Fine And Applied Arts,Dance,44.0,34.0,10.0,38.0,1.0,0.0,1.0,0.0,0.29
+1728,1988,Fine And Applied Arts,Theatre,29.0,16.0,13.0,29.0,0.0,0.0,0.0,0.0,0.81
+1730,1988,Fine And Applied Arts,Urban Planning,142.0,68.0,74.0,113.0,6.0,10.0,0.0,0.0,1.09
+1470,1987,Fine And Applied Arts,Theatre,104.0,52.0,52.0,97.0,0.0,3.0,1.0,0.0,1.0
+1523,1987,Fine And Applied Arts,Music Education,290.0,167.0,123.0,253.0,11.0,4.0,3.0,1.0,0.74
+1517,1987,Fine And Applied Arts,Landscape Architecture,138.0,40.0,98.0,118.0,7.0,1.0,5.0,1.0,2.45
+1516,1987,Fine And Applied Arts,Industrial Design,96.0,32.0,64.0,81.0,5.0,2.0,3.0,0.0,2.0
+1515,1987,Fine And Applied Arts,Graphic Design,120.0,74.0,46.0,102.0,14.0,0.0,3.0,1.0,0.62
+1514,1987,Fine And Applied Arts,Dance,50.0,45.0,5.0,44.0,1.0,1.0,0.0,0.0,0.11
+1512,1987,Fine And Applied Arts,Art And Design,383.0,195.0,188.0,316.0,27.0,10.0,14.0,1.0,0.96
+1510,1987,Fine And Applied Arts,Art Education,73.0,58.0,15.0,58.0,2.0,4.0,0.0,1.0,0.26
+1509,1987,Fine And Applied Arts,Architecture,222.0,52.0,170.0,179.0,9.0,2.0,3.0,0.0,3.27
+1508,1987,Fine And Applied Arts,Architectural Studies,617.0,170.0,447.0,521.0,41.0,27.0,16.0,3.0,2.63
+1522,1987,Fine And Applied Arts,Music,158.0,89.0,69.0,119.0,5.0,4.0,3.0,0.0,0.78
+1527,1987,Fine And Applied Arts,Theatre,47.0,25.0,22.0,45.0,0.0,0.0,1.0,0.0,0.88
+1529,1987,Fine And Applied Arts,Urban Planning,150.0,68.0,82.0,122.0,6.0,10.0,0.0,0.0,1.21
+1269,1986,Fine And Applied Arts,Theatre,104.0,52.0,52.0,98.0,0.0,0.0,1.0,0.0,1.0
+1321,1986,Fine And Applied Arts,Music,151.0,82.0,69.0,116.0,0.0,5.0,2.0,0.0,0.84
+1316,1986,Fine And Applied Arts,Landscape Architecture,135.0,51.0,84.0,125.0,2.0,0.0,4.0,1.0,1.65
+1315,1986,Fine And Applied Arts,Industrial Design,117.0,46.0,71.0,102.0,9.0,1.0,3.0,0.0,1.54
+1314,1986,Fine And Applied Arts,Graphic Design,135.0,81.0,54.0,121.0,9.0,1.0,2.0,1.0,0.67
+1313,1986,Fine And Applied Arts,Dance,45.0,35.0,10.0,40.0,1.0,1.0,0.0,0.0,0.29
+1311,1986,Fine And Applied Arts,Art And Design,360.0,199.0,161.0,308.0,22.0,4.0,9.0,2.0,0.81
+1309,1986,Fine And Applied Arts,Art Education,70.0,50.0,20.0,55.0,3.0,4.0,0.0,0.0,0.4
+1308,1986,Fine And Applied Arts,Architecture,206.0,50.0,156.0,157.0,6.0,2.0,4.0,0.0,3.12
+1307,1986,Fine And Applied Arts,Architectural Studies,598.0,175.0,423.0,525.0,31.0,22.0,14.0,0.0,2.42
+1322,1986,Fine And Applied Arts,Music Education,277.0,160.0,117.0,244.0,9.0,1.0,4.0,0.0,0.73
+1328,1986,Fine And Applied Arts,Urban Planning,160.0,72.0,88.0,127.0,4.0,12.0,2.0,0.0,1.22
+1326,1986,Fine And Applied Arts,Theatre,42.0,21.0,21.0,39.0,0.0,1.0,1.0,0.0,1.0
+1067,1985,Fine And Applied Arts,Theatre,100.0,48.0,52.0,90.0,0.0,1.0,0.0,0.0,1.08
+1106,1985,Fine And Applied Arts,Architectural Studies,604.0,169.0,435.0,526.0,33.0,19.0,19.0,0.0,2.57
+1114,1985,Fine And Applied Arts,Industrial Design,134.0,58.0,76.0,114.0,13.0,2.0,4.0,0.0,1.31
+1113,1985,Fine And Applied Arts,Graphic Design,144.0,91.0,53.0,133.0,8.0,1.0,1.0,1.0,0.58
+1112,1985,Fine And Applied Arts,Dance,49.0,43.0,6.0,43.0,0.0,0.0,0.0,0.0,0.14
+1110,1985,Fine And Applied Arts,Art And Design,402.0,223.0,179.0,348.0,19.0,8.0,9.0,2.0,0.8
+1107,1985,Fine And Applied Arts,Architecture,213.0,41.0,172.0,179.0,8.0,2.0,1.0,0.0,4.2
+1115,1985,Fine And Applied Arts,Landscape Architecture,137.0,52.0,85.0,126.0,1.0,2.0,4.0,1.0,1.63
+1108,1985,Fine And Applied Arts,Art Education,61.0,45.0,16.0,49.0,2.0,2.0,0.0,0.0,0.36
+1127,1985,Fine And Applied Arts,Urban Planning,160.0,67.0,93.0,135.0,4.0,8.0,0.0,1.0,1.39
+1125,1985,Fine And Applied Arts,Theatre,38.0,15.0,23.0,34.0,0.0,1.0,1.0,1.0,1.53
+1121,1985,Fine And Applied Arts,Music Education,269.0,150.0,119.0,236.0,4.0,4.0,3.0,0.0,0.79
+1120,1985,Fine And Applied Arts,Music,159.0,94.0,65.0,120.0,1.0,6.0,3.0,0.0,0.69
+864,1984,Fine And Applied Arts,Theatre,107.0,49.0,58.0,98.0,0.0,3.0,1.0,0.0,1.18
+912,1984,Fine And Applied Arts,Landscape Architecture,134.0,44.0,90.0,121.0,1.0,1.0,4.0,2.0,2.05
+910,1984,Fine And Applied Arts,Graphic Design,166.0,111.0,55.0,156.0,6.0,2.0,1.0,1.0,0.5
+909,1984,Fine And Applied Arts,Dance,43.0,38.0,5.0,38.0,1.0,0.0,0.0,0.0,0.13
+907,1984,Fine And Applied Arts,Art And Design,403.0,217.0,186.0,352.0,23.0,8.0,10.0,1.0,0.86
+904,1984,Fine And Applied Arts,Architecture,211.0,40.0,171.0,181.0,10.0,3.0,1.0,0.0,4.28
+903,1984,Fine And Applied Arts,Architectural Studies,581.0,166.0,415.0,506.0,31.0,18.0,14.0,0.0,2.5
+911,1984,Fine And Applied Arts,Industrial Design,116.0,64.0,52.0,101.0,8.0,4.0,1.0,0.0,0.81
+905,1984,Fine And Applied Arts,Art Education,64.0,45.0,19.0,52.0,2.0,1.0,0.0,0.0,0.42
+921,1984,Fine And Applied Arts,Theatre,29.0,13.0,16.0,26.0,0.0,1.0,1.0,1.0,1.23
+917,1984,Fine And Applied Arts,Music Education,238.0,135.0,103.0,211.0,3.0,3.0,2.0,0.0,0.76
+916,1984,Fine And Applied Arts,Music,201.0,106.0,95.0,157.0,2.0,4.0,5.0,1.0,0.9
+923,1984,Fine And Applied Arts,Urban Planning,145.0,54.0,91.0,124.0,3.0,5.0,0.0,0.0,1.69
+663,1983,Fine And Applied Arts,Theatre,127.0,56.0,71.0,118.0,0.0,5.0,1.0,0.0,1.27
+705,1983,Fine And Applied Arts,Art Education,74.0,57.0,17.0,61.0,2.0,3.0,0.0,0.0,0.3
+712,1983,Fine And Applied Arts,Landscape Architecture,142.0,49.0,93.0,132.0,4.0,0.0,2.0,2.0,1.9
+711,1983,Fine And Applied Arts,Industrial Design,103.0,51.0,52.0,90.0,7.0,4.0,0.0,0.0,1.02
+710,1983,Fine And Applied Arts,Graphic Design,170.0,120.0,50.0,162.0,5.0,1.0,1.0,1.0,0.42
+709,1983,Fine And Applied Arts,Dance,46.0,43.0,3.0,39.0,1.0,2.0,0.0,0.0,0.07
+704,1983,Fine And Applied Arts,Architecture,216.0,39.0,177.0,181.0,8.0,7.0,0.0,0.0,4.54
+703,1983,Fine And Applied Arts,Architectural Studies,558.0,163.0,395.0,496.0,22.0,11.0,16.0,2.0,2.42
+707,1983,Fine And Applied Arts,Art And Design,360.0,188.0,172.0,313.0,28.0,7.0,2.0,1.0,0.91
+717,1983,Fine And Applied Arts,Music,210.0,100.0,110.0,180.0,3.0,3.0,2.0,1.0,1.1
+718,1983,Fine And Applied Arts,Music Education,251.0,139.0,112.0,226.0,2.0,5.0,2.0,1.0,0.81
+721,1983,Fine And Applied Arts,Theatre,21.0,9.0,12.0,20.0,0.0,0.0,0.0,1.0,1.33
+723,1983,Fine And Applied Arts,Urban Planning,143.0,61.0,82.0,131.0,3.0,3.0,1.0,0.0,1.34
+463,1982,Fine And Applied Arts,Theatre,138.0,64.0,74.0,126.0,0.0,6.0,1.0,0.0,1.16
+512,1982,Fine And Applied Arts,Landscape Architecture,146.0,56.0,90.0,134.0,4.0,1.0,3.0,1.0,1.61
+511,1982,Fine And Applied Arts,Industrial Design,95.0,50.0,45.0,78.0,9.0,4.0,0.0,0.0,0.9
+510,1982,Fine And Applied Arts,Graphic Design,184.0,141.0,43.0,176.0,5.0,1.0,2.0,0.0,0.3
+509,1982,Fine And Applied Arts,Dance,47.0,45.0,2.0,39.0,2.0,3.0,0.0,0.0,0.04
+507,1982,Fine And Applied Arts,Art And Design,360.0,210.0,150.0,319.0,16.0,9.0,2.0,2.0,0.71
+505,1982,Fine And Applied Arts,Art Education,72.0,59.0,13.0,63.0,1.0,3.0,1.0,0.0,0.22
+504,1982,Fine And Applied Arts,Architecture,235.0,38.0,197.0,193.0,7.0,6.0,1.0,0.0,5.18
+503,1982,Fine And Applied Arts,Architectural Studies,583.0,171.0,412.0,519.0,24.0,9.0,14.0,2.0,2.41
+517,1982,Fine And Applied Arts,Music,218.0,108.0,110.0,186.0,2.0,8.0,2.0,0.0,1.02
+522,1982,Fine And Applied Arts,Theatre,22.0,9.0,13.0,22.0,0.0,0.0,0.0,0.0,1.44
+518,1982,Fine And Applied Arts,Music Education,294.0,164.0,130.0,273.0,2.0,3.0,2.0,1.0,0.79
+524,1982,Fine And Applied Arts,Urban Planning,134.0,58.0,76.0,115.0,4.0,6.0,1.0,0.0,1.31
+268,1981,Fine And Applied Arts,Theatre,129.0,66.0,63.0,121.0,0.0,3.0,0.0,0.0,0.95
+308,1981,Fine And Applied Arts,Architecture,213.0,37.0,176.0,160.0,6.0,3.0,3.0,0.0,4.76
+315,1981,Fine And Applied Arts,Industrial Design,83.0,35.0,48.0,73.0,3.0,5.0,1.0,0.0,1.37
+314,1981,Fine And Applied Arts,Graphic Design,165.0,128.0,37.0,154.0,8.0,0.0,2.0,1.0,0.29
+313,1981,Fine And Applied Arts,Dance,41.0,36.0,5.0,36.0,1.0,3.0,0.0,0.0,0.14
+311,1981,Fine And Applied Arts,Art And Design,415.0,259.0,156.0,364.0,20.0,12.0,3.0,2.0,0.6
+309,1981,Fine And Applied Arts,Art Education,68.0,61.0,7.0,60.0,0.0,3.0,2.0,0.0,0.11
+307,1981,Fine And Applied Arts,Architectural Studies,597.0,163.0,434.0,529.0,25.0,13.0,12.0,3.0,2.66
+316,1981,Fine And Applied Arts,Landscape Architecture,159.0,62.0,97.0,151.0,3.0,0.0,1.0,0.0,1.56
+320,1981,Fine And Applied Arts,Music,241.0,99.0,142.0,218.0,2.0,6.0,4.0,0.0,1.43
+325,1981,Fine And Applied Arts,Theatre,26.0,11.0,15.0,26.0,0.0,0.0,0.0,0.0,1.36
+321,1981,Fine And Applied Arts,Music Education,305.0,171.0,134.0,279.0,5.0,5.0,1.0,1.0,0.78
+327,1981,Fine And Applied Arts,Urban Planning,109.0,52.0,57.0,92.0,3.0,7.0,0.0,0.0,1.1
+77,1980,Fine And Applied Arts,Theatre,122.0,66.0,56.0,117.0,0.0,2.0,0.0,0.0,0.85
+116,1980,Fine And Applied Arts,Architecture,186.0,32.0,154.0,143.0,4.0,2.0,4.0,2.0,4.81
+122,1980,Fine And Applied Arts,Graphic Design,164.0,124.0,40.0,150.0,11.0,0.0,2.0,0.0,0.32
+121,1980,Fine And Applied Arts,Dance,41.0,36.0,5.0,38.0,1.0,0.0,1.0,1.0,0.14
+119,1980,Fine And Applied Arts,Art And Design,363.0,248.0,115.0,333.0,10.0,6.0,1.0,1.0,0.46
+117,1980,Fine And Applied Arts,Art Education,72.0,59.0,13.0,69.0,1.0,0.0,1.0,0.0,0.22
+115,1980,Fine And Applied Arts,Architectural Studies,627.0,153.0,474.0,567.0,21.0,13.0,9.0,3.0,3.1
+123,1980,Fine And Applied Arts,Industrial Design,97.0,41.0,56.0,81.0,5.0,9.0,2.0,0.0,1.37
+124,1980,Fine And Applied Arts,Landscape Architecture,158.0,61.0,97.0,149.0,1.0,2.0,1.0,0.0,1.59
+128,1980,Fine And Applied Arts,Music,251.0,107.0,144.0,213.0,4.0,8.0,5.0,0.0,1.35
+129,1980,Fine And Applied Arts,Music Education,309.0,179.0,130.0,285.0,3.0,5.0,3.0,2.0,0.73
+133,1980,Fine And Applied Arts,Theatre,29.0,12.0,17.0,29.0,0.0,0.0,0.0,0.0,1.42
+135,1980,Fine And Applied Arts,Urban Planning,92.0,43.0,49.0,76.0,2.0,7.0,0.0,0.0,1.14
